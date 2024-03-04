@@ -1,7 +1,7 @@
 About me
 ======
 
-I am a last-year PhD candidate advised by [Prof.Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) and a member of [Gnosis Research Center](https://grc.iit.edu/) at Illinois Institute of Technology. I also closely work with [Dr.Rujia Wang](https://rujiawang.github.io/) (Microsoft), [Prof.Jason Liu](https://www.cis.fiu.edu/faculty-staff/liu-jason/) (FIU). I received my Master degree from New York University and the Bachelor degree from Zhejiang University. 
+I am a last-year PhD candidate advised by [Prof.Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) and a member of [Gnosis Research Center](https://grc.iit.edu/) at Illinois Institute of Technology. I also closely work with [Dr.Rujia Wang](https://rujiawang.github.io/) (Microsoft), [Prof.Jason Liu](https://www.cis.fiu.edu/faculty-staff/liu-jason/) (FIU). I received my Master degree from New York University and my Bachelor degree from Zhejiang University. 
 
 My research interests are memory performance modeling, cache/memory performance optimizations, data-centric design for computer architecture, AI-assisted design for computer architecture, and efficient algorithm-hardware co-design for AI.
 
