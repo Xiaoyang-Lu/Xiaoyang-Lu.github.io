@@ -6,7 +6,6 @@ I am a last-year PhD candidate advised by [Prof.Xian-He Sun](http://www.cs.iit.e
 My research interests are memory performance modeling, cache/memory performance optimizations, data-centric design for computer architecture, AI-assisted design for computer architecture, and efficient algorithm-hardware co-design for AI.
 
 
-
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
