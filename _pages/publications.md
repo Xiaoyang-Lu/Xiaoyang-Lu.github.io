@@ -18,25 +18,25 @@ Xiaoyang Lu</b> \*, Boyu Long \*, Xiaoming Chen, Yinhe Han, Xian-He Sun.
 Xiaoyang Lu</b>, Hamed Najafi, Jason Liu, Xian-He Sun.
 <i>International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2024</b>
 
-<b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
-Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
-<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+<b>[CARE: A Concurrency-Aware Enhanced Lightweight Cache Management Framework](../publications/HPCA2023)</b><br>
+Xiaoyang Lu</b>, Rujia Wang, Xian-He Sun.
+<i>International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
 
-<b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
-Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
-<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+<b>[A Generalized Model For Modern Hierarchical Memory System](../publications/WSC2023)</b><br>
+Hamed Najafi, Xiaoyang Lu</b>, Jason Liu, Xian-He Sun.
+<i>Winter Simulation Conference</i>. <b>WSC 2022</b>
 
-<b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
-Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
-<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+<b>[Premier: A Concurrency-Aware Pseudo-Partitioning Framework for Shared Last-Level Cache](../publications/ICCD2021)</b><br>
+Xiaoyang Lu</b>, Rujia Wang, Xian-He Sun.
+<i>International Conference on Computer Design</i>. <b>ICCD 2021</b>
 
-<b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
-Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
-<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+<b>[CoPIM: A Concurrency-Aware PIM Workload Offloading Architecture for Graph Applications](../publications/ISLPED2021)</b><br>
+Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, Xiaoyang Lu</b>, Yinhe Han, Xian-He Sun
+<i>International Symposium on Low Power Electronics and Design</i>. <b>ISLPED 2021</b>
 
-<b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
-Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
-<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+<b>[APAC: An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis](../publications/ICCD2020)</b><br>
+Xiaoyang Lu</b>, Rujia Wang, Xian-He Sun.
+<i>International Conference on Computer Design</i>. <b>ICCD 2020</b>
 
 
 
