@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=54-lMHUAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+
 
 # Conference
 <b>[ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations](../publications/ASPLOS24)</b><br>
