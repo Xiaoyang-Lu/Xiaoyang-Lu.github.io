@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=f1SKEPYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhang:Mingzhe))"
+title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=54-lMHUAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
