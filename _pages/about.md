@@ -15,10 +15,10 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 - Memory performance modeling
 - Cache/memory performance optimizations
 - Data-centric design for computer architecture
-- AI-assisted design for computer architecture (AI for systems)
+- AI-assisted design for computer architecture (AI for Systems)
 - Efficient algorithm-hardware co-design for AI (Syetems for AI)
 
 Updates
 ======
-- [Feb 2024] Our paper “ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations ” has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].
+- <span style="color:red;">Our paper “ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations” has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
 - 
