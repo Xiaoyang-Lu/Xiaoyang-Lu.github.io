@@ -11,12 +11,12 @@ author_profile: true
 
 
 <b>[ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations](../publications/ASPLOS24)</b><br>
-Xiaoyang Lu</b>*, Boyu Long*, Xiaoming Chen, Yinhe Han, Xian-He Sun.
+Xiaoyang Lu</b>\*, Boyu Long\*, Xiaoming Chen, Yinhe Han, Xian-He Sun.
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2024</b>
 
-<b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
-Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
-<i>The 29th IEEE International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
+<b>[CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning ](../publications/HPCA2024)</b><br>
+Xiaoyang Lu</b>, Hamed Najafi, Jason Liu, Xian-He Sun.
+<i>International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2024</b>
 
 <b>[Poseidon: Practical Homomorphic Encryption Accelerator](../publications/HPCA2023-2)</b><br>
 Yinghao Yang, Huaizhi Zhang, Shengyu Fan, Hang Lu, <b>Mingzhe Zhang</b>, Xiaowei Li.
