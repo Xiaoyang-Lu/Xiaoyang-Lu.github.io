@@ -20,5 +20,6 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
-- <span style="color:red;">Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
+- <span style="color:red;">[Feb 2024] Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
+- [Oct 2023] Our paper 'CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning' has been accepted by HPCA 2024! Congrats to all collaborators! [accept rate 18.3%].
 - 
