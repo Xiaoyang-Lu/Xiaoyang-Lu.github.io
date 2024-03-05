@@ -29,10 +29,5 @@ Updates
 
 ## Recent Visit
 
-<a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>
-
-<br>
-<!-- hitwebcounter Code START -->
-The <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7218568&style=0006&nbdigits=8&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" > 
-</a> visitor since March 1st, 2023.     
+<a href="https://clustrmaps.com/site/1byqg"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=bsYxMGsaNlwJCwQ8pgkgt0Arixg1DL3me1GDZRUAgL8&cl=ffffff" /></a>
+  
