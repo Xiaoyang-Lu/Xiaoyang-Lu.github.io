@@ -36,11 +36,9 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 <b>Xiaoyang Lu</b>, Rujia Wang, Xian-He Sun.
 <i>International Conference on Computer Design</i>. <b>ICCD 2020</b>
 
+# Journals & Transactions
+<b>[The Memory-Bounded Speedup Model and its Impacts in Computing](../publications/JCST2023)</b><br>
+Xian-He Sun, <b>Xiaoyang Lu</b>.
+<i>Journal of Computer Science and Technology 38 (1), 64-79.
 
 
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
