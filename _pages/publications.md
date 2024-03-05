@@ -11,7 +11,7 @@ author_profile: true
 
 # Conference
 <b>[ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations](../publications/ASPLOS24)</b><br>
-Xiaoyang Lu</b>\*, Boyu Long\*, Xiaoming Chen, Yinhe Han, Xian-He Sun.
+Xiaoyang Lu</b> \*, Boyu Long \*, Xiaoming Chen, Yinhe Han, Xian-He Sun.
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2024</b>
 
 <b>[CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning ](../publications/HPCA2024)</b><br>
