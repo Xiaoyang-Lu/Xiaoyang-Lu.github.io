@@ -11,7 +11,7 @@ I am a final-year PhD candidate advised by [Prof. Xian-He Sun](http://www.cs.iit
 
 Email: xlu40@hawk.iit.edu
 
-Click [here](../pages/cv) to see the up-to-date version of my CV.
+Click [here](../cv) to see the up-to-date version of my CV.
 
 Research Interests
 ======
