@@ -19,7 +19,7 @@ author_profile: true
 <b>Xiaoyang Lu</b>, Rujia Wang, Xian-He Sun.  
 <i>International Symposium on High-Performance Computer Architecture</i>. <b>HPCA 2023</b>
 
-<b>[A Generalized Model For Modern Hierarchical Memory System](../publications/WSC2023)</b><br>
+<b>[A Generalized Model For Modern Hierarchical Memory System](../publications/WSC2022)</b><br>
 Hamed Najafi, <b>Xiaoyang Lu</b>, Jason Liu, Xian-He Sun.  
 <i>Winter Simulation Conference</i>. <b>WSC 2022</b>
 
