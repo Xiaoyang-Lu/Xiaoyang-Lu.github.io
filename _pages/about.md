@@ -10,6 +10,7 @@ redirect_from:
 I am a final-year PhD candidate advised by [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) and a member of [Gnosis Research Center](https://grc.iit.edu/) at Illinois Institute of Technology. I also closely work with [Dr. Rujia Wang](https://rujiawang.github.io/) (Microsoft), [Prof. Jason Liu](https://www.cis.fiu.edu/faculty-staff/liu-jason/) (FIU).  I received my Master's degree from New York University and my Bachelor's degree from Zhejiang University.
 
 Email: xlu40@hawk.iit.edu
+
 Click [here](../pages/cv) to see the up-to-date version of my CV.
 
 Research Interests
