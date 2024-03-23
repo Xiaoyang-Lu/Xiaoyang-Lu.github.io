@@ -24,7 +24,8 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
-- <span style="color:red;">[Mar 2024] Awarded with an ASPLOS Student Travel Grant. Cheers! </span>
+- <span style="color:red;">[Mar 2024] Xiaoyang won the Best Poster Award at the 2024 College of Computing Poster Session of Illinois Tech! Cheers! </span>
+- <span style="color:red;">[Mar 2024] Xiaoyang was awarded with an ASPLOS Student Travel Grant. Cheers! </span>
 - <span style="color:red;">[Feb 2024] Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
 - [Oct 2023] Our paper 'CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning' has been accepted by HPCA 2024! Congrats to all collaborators! [accept rate 18.3%].
 - [Nov 2022] Our paper 'The Memory-Bounded Speedup Model and its Impacts in Computing' has been accepted by Journal of Computer Science and Technology (JCST). Congrats!
