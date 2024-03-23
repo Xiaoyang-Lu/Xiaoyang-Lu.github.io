@@ -27,6 +27,7 @@ Updates
 - <span style="color:red;">[Mar 2024] Xiaoyang won the Best Poster Award at the 2024 College of Computing Poster Session of Illinois Tech! Cheers! </span>
 - <span style="color:red;">[Mar 2024] Xiaoyang was awarded with an ASPLOS Student Travel Grant. Cheers! </span>
 - <span style="color:red;">[Feb 2024] Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
+- [Nov 2023] Our achievement for CARE Cache Management has been selected for inclusion in the [Chip100 (2022-2023)](https://www.benchcouncil.org/evaluation/chips/annual.html) annual ranking. Cheers!
 - [Oct 2023] Our paper 'CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning' has been accepted by HPCA 2024! Congrats to all collaborators! [accept rate 18.3%].
 - [Nov 2022] Our paper 'The Memory-Bounded Speedup Model and its Impacts in Computing' has been accepted by Journal of Computer Science and Technology (JCST). Congrats!
 - [Oct 2022] Our paper 'CARE: A Concurrency-Aware Enhanced Lightweight Cache Management Framework' has been accepted by HPCA 2023! Congrats to all collaborators! [accept rate 25.0%].
