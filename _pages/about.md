@@ -24,7 +24,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
-- <span style="color:red;">[Mar 2024] Xiaoyang won the Best Poster Award at the 2024 College of Computing Poster Session of Illinois Tech! Cheers! </span>
+- <span style="color:red;">[Mar 2024] Xiaoyang won the [Best Poster Award](../files/Certificates/certificate_2024_college_of_computing_poster.pdf) at the 2024 College of Computing Poster Session of Illinois Tech! Cheers! </span>
 - <span style="color:red;">[Mar 2024] Xiaoyang was awarded with an ASPLOS Student Travel Grant. Cheers! </span>
 - <span style="color:red;">[Feb 2024] Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
 - [Nov 2023] Our achievement for CARE Cache Management has been selected for inclusion in the [Chip100 (2022-2023)](https://www.benchcouncil.org/evaluation/chips/annual.html) annual ranking. Cheers!
