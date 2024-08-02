@@ -24,6 +24,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- <span style="color:red;">[Aug 2024] Our paper 'AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System' has been accepted by ICCD 2024! Congrats to all collaborators! </span>
 - <span style="color:red;">[Mar 2024] Xiaoyang was awarded with an DAC61 PhD Forum Travel Grant. Cheers! </span>
 - <span style="color:red;">[May 2024] Xiaoyang was selected by the Illinois Tech Computer Science Awards Committee to receive the Best Student Paper award for the 2023-2024 academic year! Cheers! </span>
 - <span style="color:red;">[May 2024] Xiaoyang's dissertation 'Utilizing Concurrent Data Accesses for Data-Driven and AI Applications' has been accepted for the [Ph.D. Forum at DAC 2024](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)! Cheers! </span>
