@@ -7,6 +7,10 @@ author_profile: true
 
 
 # Conference
+<b>[AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System](../publications/ICCD2024)</b><br>
+<b>Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Sheng Xu, Xingqi Zou, Yinhe Han, Xian-He Sun.  
+<i>International Conference on Computer Design</i>. <b>ICCD 2024</b>
+
 <b>[ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations](../publications/ASPLOS2024)</b><br>
 <b>Xiaoyang Lu</b>\*, Boyu Long\*, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2024</b>
