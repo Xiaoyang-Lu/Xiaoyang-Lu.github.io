@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor in the College of Computing at Illinois Tech, where I work closely with [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) at [Gnosis Research Center](https://grc.iit.edu/). My research spans various areas in Computer Architecture and High-Performance Systems, with a particular emphasis on optimizing memory hierarchies, improving data-centric designs, and leveraging AI for both system optimization and efficient algorithm-hardware co-design.
+I am a Research Assistant Professor in the College of Computing at Illinois Tech, where I work closely with [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) at [Gnosis Research Center](https://grc.iit.edu/). My research spans several areas in Computer Architecture and High-Performance Systems, with a particular focus on optimizing memory hierarchies, enhancing data-centric designs, leveraging AI to improve system performance, and enabling efficient algorithm-hardware co-design.
 
 Email: xlu40@iit.edu
 
 Click [here](../cv) to see the up-to-date version of my CV.
 
-Prospective students: I am looking for self-motivated students interested in computer architecture. If you are interested, please feel free to email me with your resume and transcripts.
+Prospective students: I am looking for self-motivated students interested in computer architecture and working together at [Gnosis Research Center](https://grc.iit.edu/). If you are interested, please feel free to email me your resume and transcripts. 
 
 Research Interests
 ======
