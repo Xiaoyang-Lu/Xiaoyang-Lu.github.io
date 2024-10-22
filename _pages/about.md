@@ -22,7 +22,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 - Cache/memory performance optimizations
 - Data-centric design for computer architecture
 - AI-assisted design for computer architecture (AI for Systems)
-- Efficient algorithm-hardware co-design for AI (Syetems for AI)
+- Efficient algorithm-hardware co-design for AI (Systems for AI)
 
 Updates
 ======
