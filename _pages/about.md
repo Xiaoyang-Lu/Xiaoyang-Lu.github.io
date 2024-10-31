@@ -28,13 +28,13 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
-- **Aug 2024**  Our paper 'AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System' has been accepted by ICCD 2024! Congrats to all collaborators! </span>
-- **May 2024**  Xiaoyang was awarded with an DAC61 PhD Forum Travel Grant. Cheers! </span>
-- **May 2024**  Xiaoyang was selected by the Illinois Tech Computer Science Awards Committee to receive the Best Student Paper award for the 2023-2024 academic year! Cheers! </span>
-- **May 2024**  Xiaoyang's dissertation 'Utilizing Concurrent Data Accesses for Data-Driven and AI Applications' has been accepted for the [Ph.D. Forum at DAC 2024](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)! Cheers! </span>
-- **Mar 2024**  Xiaoyang won the [Best Poster Award](../files/Certificates/certificate_2024_college_of_computing_poster.pdf) at the 2024 College of Computing Poster Session of Illinois Tech! Cheers! </span>
-- **Mar 2024**  Xiaoyang was awarded with an ASPLOS Student Travel Grant. Cheers! </span>
-- **Feb 2024**  Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].</span>
+- **Aug 2024**  Our paper 'AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System' has been accepted by ICCD 2024! Congrats to all collaborators!
+- **May 2024**  Xiaoyang was awarded with an DAC61 PhD Forum Travel Grant. Cheers!
+- **May 2024**  Xiaoyang was selected by the Illinois Tech Computer Science Awards Committee to receive the Best Student Paper award for the 2023-2024 academic year! Cheers!
+- **May 2024**  Xiaoyang's dissertation 'Utilizing Concurrent Data Accesses for Data-Driven and AI Applications' has been accepted for the [Ph.D. Forum at DAC 2024](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)! Cheers!
+- **Mar 2024**  Xiaoyang won the [Best Poster Award](../files/Certificates/certificate_2024_college_of_computing_poster.pdf) at the 2024 College of Computing Poster Session of Illinois Tech! Cheers!
+- **Mar 2024**  Xiaoyang was awarded with an ASPLOS Student Travel Grant. Cheers!
+- **Feb 2024**  Our paper 'ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations' has been accepted by ASPLOS 2024! Congrats to all collaborators! [accept rate 11.5%].
 
 ## Recent Visit
 
