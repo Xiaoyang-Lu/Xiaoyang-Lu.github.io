@@ -18,6 +18,7 @@ In modern computing, data-intensive applications frequently face memory bottlene
 
 Each study in this research project addresses specific challenges in cache management by integrating concurrency-aware metrics and adaptive frameworks. Together, they showcase substantial performance gains achievable through the strategic management of concurrent memory accesses, offering effective solutions to the memory wall problem that hinders data-intensive applications in multi-core systems.
 
+---
 
 ## Efficient Hardware Design for AI Computing
 
@@ -29,6 +30,7 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 
 This project underscores the importance of advanced dataflow and concurrency-aware memory optimizations that mitigate data movement overhead and accelerate core AI computations. These innovations contribute significantly to the efficiency and scalability of AI hardware, enabling broader adoption across diverse and demanding fields.
 
+---
 
 ## Leveraging Processing-in-Memory for Data-Intensive Applications
 
