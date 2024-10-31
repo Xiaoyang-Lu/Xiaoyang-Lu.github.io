@@ -10,10 +10,11 @@ In modern computing, data-intensive applications often encounter memory bottlene
 
 ## Projects:
 
-- [APAC – An Accurate and Adaptive Prefetch Framework](#apac-an-accurate-and-adaptive-prefetch-framework)
-- [CARE – Concurrency-Aware Enhanced Cache Management](#care-concurrency-aware-enhanced-cache-management)
-- [Premier – Concurrency-Aware Cache Pseudo-Partitioning](#premier-concurrency-aware-cache-pseudo-partitioning)
-- [CHROME – Holistic Cache Management with Reinforcement Learning](#chrome-holistic-cache-management-with-reinforcement-learning)
+- [CARE – Concurrency-Aware Enhanced Cache Management](../publications/HPCA2023)
+- [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024))
+- [APAC – An Accurate and Adaptive Prefetch Framework](../publications/ICCD2024)
+- [Premier – Concurrency-Aware Cache Pseudo-Partitioning](../publications/ICCD2021)
+
 
 Each project’s detailed exploration includes background, motivation, features, results, and a conclusion, providing insights into their contributions to enhancing memory concurrency and reducing cache misses.
 
