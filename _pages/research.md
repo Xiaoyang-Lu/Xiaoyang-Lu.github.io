@@ -12,7 +12,7 @@ In modern computing, data-intensive applications frequently face memory bottlene
 
 - [CARE – Concurrency-Aware Enhanced Cache Management](../publications/HPCA2023)
 - [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024))
-- [APAC – An Accurate and Adaptive Prefetch Framework](../publications/ICCD2021)
+- [APAC – An Accurate and Adaptive Prefetch Framework](../publications/ICCD2020)
 - [Premier – Concurrency-Aware Cache Pseudo-Partitioning](../publications/ICCD2021)
 
 
