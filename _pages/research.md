@@ -42,3 +42,17 @@ Data-intensive applications, particularly those involving complex graph computat
 - [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching](../publications/ICCD2024)
 
 Each study in this research project addresses specific obstacles in PIM for graph processing, integrating optimized caching, concurrency-aware workload partitioning, and adaptive offloading. Together, they demonstrate substantial efficiency gains, underscoring the potential of PIM to accelerate data-driven applications by alleviating the memory wall problem inherent in traditional architectures.
+
+---
+
+## Concurrency-Aware Memory Performance Modeling
+
+Driven by the demands of big data applications and high-performance computing, modern computing requires precise memory performance models that effectively capture the impact of concurrency. This research delves into how concurrent data access influences memory system performance, introducing advanced modeling techniques to deepen our understanding of memory bottlenecks, particularly within multi-core systems where concurrency is a critical factor.
+
+
+**Publications**
+
+- [A Generalized Model for Modern Hierarchical Memory Systems](../publications/WSC2022)
+- [The Memory-Bounded Speedup Model and Its Impacts in Computing](../publications/JCST2023)
+
+This project highlights the importance of concurrency-aware memory models that capture concurrent access patterns within hierarchical memory systems, enabling the design of architectures optimized for performance and efficiency. Collectively, these studies demonstrate that data concurrency is as crucial as locality, offering new directions to overcome the memory wall problem—a persistent bottleneck in data-intensive computing.
