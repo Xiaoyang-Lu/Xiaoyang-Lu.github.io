@@ -43,5 +43,3 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 <b>[The Memory-Bounded Speedup Model and its Impacts in Computing](../publications/JCST2023)</b><br>
 Xian-He Sun, <b>Xiaoyang Lu</b>.  
 <i>Journal of Computer Science and Technology 38 (1), 64-79.
-
-
