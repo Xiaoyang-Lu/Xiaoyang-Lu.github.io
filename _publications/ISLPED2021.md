@@ -29,6 +29,11 @@ CoPIM introduces a Pure Miss Cycle Rate metric to guide workload partitioning ba
 
 CoPIM outperforms PEI and GraphPIM with a 19.5% and 11.4% speedup, respectively, demonstrating significant energy efficiency improvements due to reduced offloading overhead.
 
+<div style="text-align: center;">
+    <img src="../files/ISLPED2021/CoPIM_result.png" alt="Performance comparison of state-of-the-art frameworks" width="80%">
+    <p><em>Performance comparison of state-of-the-art frameworks</em></p>
+</div>
+
 ## Conclusion
 
 CoPIM showcases that concurrency-aware workload partitioning in PIM can optimize graph application performance, especially in data-intensive environments, establishing a new standard for workload offloading strategies in PIM architectures.
