@@ -28,15 +28,17 @@ The ACES accelerator addresses these challenges through a novel combination of a
 
 ## Key Features
 
-- **Adaptive Execution Flow**: Dynamically adjusts execution based on input sparsity patterns to optimize parallelism and data reuse.
+- **Adaptive Execution Flow**: Dynamically adjusts execution flows based on input sparsity patterns to optimize parallelism and data reuse.
 <div style="text-align: center;">
-    <img src="../files/ASPLOS2024/ACES_flow.png" alt="ACES_flow." width="80%">
+    <img src="../files/ASPLOS2024/ACES_flow.png" alt="ACES_flow." width="50%">
+    <p><em>Three execution flows with different condensing degrees</em></p>
 </div>
 - **Balanced Data Reuse and Synchronization**: Balances memory access with parallel execution to maximize data reuse and minimize synchronization overhead.
 - **Concurrency-Aware Cache Management**: Employs the PureFiber cache replacement policy, considering reuse distance and concurrent accesses to improve cache performance.
 - **Non-Blocking Buffer Integration**: Uses a non-blocking buffer to handle cache misses without stalling the pipeline, enhancing concurrency.
 <div style="text-align: center;">
-    <img src="../files/ASPLOS2024/ACES_NBbuffer.png" alt="ACES_NBbuffer." width="80%">
+    <img src="../files/ASPLOS2024/ACES_NBbuffer.png" alt="ACES_NBbuffer." width="50%">
+    <p><em>Organization of the non-blocking cache</em></p>
 </div>
 
 
