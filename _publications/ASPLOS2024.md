@@ -15,6 +15,12 @@ As AI applications grow in complexity, they require hardware architectures capab
 
 The ACES accelerator addresses these challenges through a novel combination of adaptive execution flows and concurrency-aware memory optimizations, specifically designed for Sparse Matrix-Matrix Multiplication. By optimizing both dataflow and memory management, ACES enhances the performance of sparse computations in AI, allowing efficient processing of data-intensive workloads.
 
+<div style="text-align: center;">
+    <img src="../files/ASPLOS2024/ACES_overview.pdf" alt="Overview of the ACES Accelerator" width="80%">
+    <p><em>Overview of the ACES Accelerator Design</em></p>
+</div>
+
+
 ## Key Features
 
 - **Adaptive Execution Flow**: Dynamically adjusts execution based on input sparsity patterns to optimize parallelism and data reuse.
