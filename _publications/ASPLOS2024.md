@@ -12,7 +12,7 @@ date: 2024-04-27
 As AI applications grow in complexity, they require hardware architectures capable of handling massive memory demands and complex computations. Efficient processing of sparse data structures, especially in sparse matrix operations, is essential in many AI and scientific computing tasks. However, traditional architectures often struggle with the data movement overhead and irregular memory access patterns inherent in these applications.
 
 <div style="text-align: center;">
-    <img src="../files/ASPLOS2024/ACES_background.png" alt="ACES background" width="80%">
+    <img src="../files/ASPLOS2024/ACES_background.png" alt="ACES background" width="90%">
 </div>
 
 
