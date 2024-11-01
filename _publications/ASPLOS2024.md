@@ -30,7 +30,7 @@ The ACES accelerator addresses these challenges through a novel combination of a
 
 - **Adaptive Execution Flow**: Dynamically adjusts execution flows based on input sparsity patterns to optimize parallelism and data reuse.
 <div style="text-align: center;">
-    <img src="../files/ASPLOS2024/ACES_flow.png" alt="ACES_flow." width="50%">
+    <img src="../files/ASPLOS2024/ACES_flow.png" alt="ACES_flow." width="80%">
     <p><em>Three execution flows with different condensing degrees</em></p>
 </div>
 - **Balanced Data Reuse and Synchronization**: Balances memory access with parallel execution to maximize data reuse and minimize synchronization overhead.
