@@ -32,6 +32,12 @@ The ACES accelerator addresses these challenges through a novel combination of a
 
 ACES achieves substantial improvements over traditional architectures, demonstrating significant performance gains in AI workloads that rely on sparse matrix computations. Experimental results show up to a 2.1× speedup.
 
+<div style="text-align: center;">
+    <img src="../files/ASPLOS2024/ACES_result.png" alt="Performance comparison among SIGMA, SpArch, SPADA, and ACES" width="80%">
+    <p><em>Performance comparison among SIGMA, SpArch, SPADA, and ACES</em></p>
+</div>
+
+
 ## Conclusion
 
 By integrating advanced dataflow and concurrency-aware memory optimizations, ACES provides a high-performance, scalable solution for handling the demands of modern AI applications. These innovations contribute to the overall efficiency and scalability of AI hardware, positioning ACES as a foundational component in the future of AI computing.
