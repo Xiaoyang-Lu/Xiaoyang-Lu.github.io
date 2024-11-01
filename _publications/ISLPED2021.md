@@ -16,7 +16,7 @@ PIM architecture enables computation near memory, reducing the memory wall bottl
 CoPIM introduces a Pure Miss Cycle Rate metric to guide workload partitioning based on concurrency and cache miss patterns. This metric helps CoPIM identify critical portions of graph workloads that can be offloaded to PIM units without compromising CPU performance. CoPIM’s architecture also includes an Instruction Management Unit (IMU) to manage loop-based offloading dynamically, improving the responsiveness of offloading decisions.
 
 <div style="text-align: center;">
-    <img src="../files/ISLPED2021/CoPIM_flow.png" alt="CoPIM workflow for selecting offloading targets" width="40%">
+    <img src="../files/ISLPED2021/CoPIM_flow.png" alt="CoPIM workflow for selecting offloading targets" width="55%">
     <p><em>CoPIM workflow for selecting offloading targets</em></p>
 </div>
 
