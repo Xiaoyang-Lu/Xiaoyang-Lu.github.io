@@ -57,3 +57,4 @@ ACES achieves substantial improvements over traditional architectures, demonstra
 By integrating advanced dataflow and concurrency-aware memory optimizations, ACES provides a high-performance, scalable solution for handling the demands of modern AI applications. These innovations contribute to the overall efficiency and scalability of AI hardware, positioning ACES as a foundational component in the future of AI computing.
 
 [paper](../files/ASPLOS2024/ACES_paper.pdf) [slides](../files/ASPLOS2024/ACES_slides.pdf) [poster](../files/ASPLOS2024/ACES_poster.pdf)
+[code](https://github.com/Boyu-Long/ACES)
