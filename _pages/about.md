@@ -28,6 +28,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- **Apr 2025**: Our paper 'Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory' has been accepted by the IEEE Computer Architecture Letters! Congrats to all collaborators!
 - **Aug 2024**  Our paper 'AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System' has been accepted by ICCD 2024! Congrats to all collaborators!
 - **May 2024**  Xiaoyang was awarded with an DAC61 PhD Forum Travel Grant. Cheers!
 - **May 2024**  Xiaoyang was selected by the Illinois Tech Computer Science Awards Committee to receive the Best Student Paper award for the 2023-2024 academic year! Cheers!

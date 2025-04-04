@@ -3,6 +3,9 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+## 2025
+
+- **April**: Our paper *Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory"* has been accepted by the IEEE Computer Architecture Letters! Congrats to all collaborators!
 
 ## 2024
 
