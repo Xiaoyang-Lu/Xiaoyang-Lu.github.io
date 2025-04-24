@@ -6,8 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Services"
+    url: /services/
+
   - title: "News"
     url: /news/
+
+  - title: "CV"
+    url: /cv/
 
 
  # - title: "Talks"
@@ -22,8 +28,7 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
 
- # - title: "CV"
- #   url: /cv/
+
 
  # - title: "Guide"
  #   url: /markdown/
