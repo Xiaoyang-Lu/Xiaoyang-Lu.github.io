@@ -6,7 +6,7 @@ author_profile: true
 
 
 ## 2025
-
+- **April**: Our paper *Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning* was accepted by GLSVLSI 2025! Congrats to all collaborators! 
 - **April**: I serve as a TPC member for ICCD 2025.
 - **April**: Our paper *Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory* has been accepted by *IEEE Computer Architecture Letters*! Congrats to all collaborators!
 

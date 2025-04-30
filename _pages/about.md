@@ -26,6 +26,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- **Apr 2025**: Our paper *Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning* was accepted by GLSVLSI 2025! Congrats to all collaborators! 
 - **Apr 2025**: I serve as a TPC member for ICCD 2025.
 - **Apr 2025**: Our paper *Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory* has been accepted by *IEEE Computer Architecture Letters*! Congrats to all collaborators!
 - **Aug 2024**: Our paper *AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System* has been accepted by ICCD 2024! Congrats to all collaborators!
