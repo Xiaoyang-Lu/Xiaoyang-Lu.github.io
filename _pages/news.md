@@ -6,14 +6,14 @@ author_profile: true
 
 
 ## 2025
-- **April**: Our paper *Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning* was accepted by GLSVLSI 2025! Congrats to all collaborators! 
+- **April**: Our paper *Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning* was accepted by GLSVLSI 2025! Congrats to all collaborators!
 - **April**: I serve as a TPC member for ICCD 2025.
 - **April**: Our paper *Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory* has been accepted by *IEEE Computer Architecture Letters*! Congrats to all collaborators!
 
 ## 2024
 
 - **August**: Our paper *AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System* has been accepted by ICCD 2024! Congrats to all collaborators!
-- **May**: I received the Best Student Paper Award for the 2023–2024 academic year from the Illinois Tech Computer Science Awards Committee! Congratulations!
+- **May**: I received the [Best Student Paper Award](../files/Certificates/certificate_2024_best_student_paper.pdf) for the 2023–2024 academic year from the Illinois Tech Computer Science Awards Committee! Congratulations!
 - **May**: I was awarded a DAC61 PhD Forum Travel Grant.
 - **May**: My dissertation *Utilizing Concurrent Data Accesses for Data-Driven and AI Applications* was accepted for the [Ph.D. Forum at DAC 2024](https://www.dac.com/Attend/Students-Scholarships/PhD-Forum)! Cheers!
 - **March**: I won the [Best Poster Award](../files/Certificates/certificate_2024_college_of_computing_poster.pdf) at the 2024 College of Computing Poster Session at Illinois Tech.
