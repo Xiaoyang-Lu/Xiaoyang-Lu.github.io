@@ -15,6 +15,8 @@ In modern computing, data-intensive applications frequently face memory bottlene
 - [APAC – An Accurate and Adaptive Prefetch Framework](../publications/ICCD2020)
 - [Premier – Concurrency-Aware Cache Pseudo-Partitioning](../publications/ICCD2021)
 - [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)
+
+
 ---
 
 ## Efficient Hardware Design for AI Computing
@@ -24,7 +26,7 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 **Publications**
 
 - [ACES – Adaptive and Concurrency-Aware Sparse Matrix Accelerator](../publications/ASPLOS2024)
-- [Pyramid – Accelerating LLM Inference with Cross-Level Processing-in-Memory](../publications/CAL2025)
+- [Pyramid – Accelerating LLM Inference with PIM](../publications/CAL2025)
 
 ---
 
@@ -36,7 +38,7 @@ Data-intensive applications, particularly those involving complex graph computat
 
 - [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading](../publications/ISLPED2021)
 - [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching](../publications/ICCD2024)
-- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIMs](../publications/TCAD2025)
+- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM](../publications/TCAD2025)
 
 ---
 
