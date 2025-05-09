@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Conference
-<b>[Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/I)</b><br>
+<b>[Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/)</b><br>
 Yuping Wu, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>Great Lakes Symposium on VLSI/i>. <b>GLSVLSI 2025</b>
 
@@ -44,12 +44,12 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 <i>International Conference on Computer Design</i>. <b>ICCD 2020</b>
 
 # Journals & Transactions
-<b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/CAL2025)</b><br>
+<b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Sheng Xu, Xiaoming Chen, Xingqi Zou, Yinhe Han, Xian-He Sun.  
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 
 
-<b>[Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory](../publications/)</b><br>
+<b>[Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory](../publications/CAL2025)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>IEEE Computer Architecture Letters (CAL), 24 (1), 121-124.
 
