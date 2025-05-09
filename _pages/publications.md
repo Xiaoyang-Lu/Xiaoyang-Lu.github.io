@@ -7,6 +7,10 @@ author_profile: true
 
 
 # Conference
+<b>[Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/I)</b><br>
+Yuping Wu, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
+<i>Great Lakes Symposium on VLSI/i>. <b>GLSVLSI 2025</b>
+
 <b>[AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System](../publications/ICCD2024)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Sheng Xu, Xingqi Zou, Yinhe Han, Xian-He Sun.  
 <i>International Conference on Computer Design</i>. <b>ICCD 2024</b>
@@ -40,10 +44,15 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 <i>International Conference on Computer Design</i>. <b>ICCD 2020</b>
 
 # Journals & Transactions
+<b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/)</b><br>
+Liang Yan, <b>Xiaoyang Lu</b>, Sheng Xu, Xiaoming Chen, Xingqi Zou, Yinhe Han, Xian-He Sun.  
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+
+
 <b>[Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory](../publications/)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
-<i>IEEE Computer Architecture Letters.
+<i>IEEE Computer Architecture Letters (CAL), 24 (1), 121-124.
 
 <b>[The Memory-Bounded Speedup Model and its Impacts in Computing](../publications/JCST2023)</b><br>
 Xian-He Sun, <b>Xiaoyang Lu</b>.  
-<i>Journal of Computer Science and Technology 38 (1), 64-79.
+<i>Journal of Computer Science and Technology (JCST), 38 (1), 64-79.
