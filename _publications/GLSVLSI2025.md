@@ -2,7 +2,7 @@
 title: "Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning"
 collection: publications
 permalink: /publications/GLSVLSI2025
-venue: "The 35th Great Lakes Symposium on VLSI (GLSVLSI 2024)"
+venue: "The 35th Great Lakes Symposium on VLSI (GLSVLSI 2025)"
 date: 2025-6-30
 ---
 
