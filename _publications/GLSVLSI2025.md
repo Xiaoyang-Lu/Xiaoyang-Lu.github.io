@@ -16,7 +16,7 @@ With modern processors growing increasingly fast, the performance gap between co
 To address this, CAMP (Concurrency-Aware Miss Cost Predictor) introduces a perceptron-based model that enhances traditional locality-based cache replacement by estimating the cost of cache misses under concurrent access. By leveraging multiple correlated features, CAMP dynamically predicts the Pure Miss Contribution (PMC) of a cache block—providing a concurrency-aware signal to guide more effective eviction decisions.
 
 <div style="text-align: center;">
-    <img src="../files/GLSVLSI2025/CAMP_overview.pdf" alt="Overview of CAMP" width="80%">
+    <img src="../files/GLSVLSI2025/CAMP_overview.png" alt="Overview of CAMP" width="80%">
     <p><em>Overview of the CAMP predictor</em></p>
 </div>
 
