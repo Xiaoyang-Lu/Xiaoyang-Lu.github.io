@@ -7,9 +7,9 @@ author_profile: true
 
 
 # Conference
-<b>[Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/)</b><br>
+<b>[Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)</b><br>
 Yuping Wu, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
-<i>Great Lakes Symposium on VLSI/i>. <b>GLSVLSI 2025</b>
+<i>Great Lakes Symposium on VLSI</i>. <b>GLSVLSI 2025</b>
 
 <b>[AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System](../publications/ICCD2024)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Sheng Xu, Xingqi Zou, Yinhe Han, Xian-He Sun.  
