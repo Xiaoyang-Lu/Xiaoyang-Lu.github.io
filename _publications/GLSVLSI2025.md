@@ -8,7 +8,7 @@ date: 2025-6-30
 
 ## Background
 
-With modern processors growing increasingly fast, the performance gap between compute and memory access continues to widen, often making cache performance the critical bottleneck. Traditional cache replacement policies rely heavily on data locality, but they often ignore the concurrency of memory accesses. In reality, modern cache architectures support concurrent data accesses, where the cost of a cache miss can vary significantly depending on overlap with other accesses.
+As processor speeds continue to rise, the growing gap between compute and memory access makes cache performance increasingly critical. Traditional cache replacement policies rely heavily on data locality, but they often ignore the concurrency of memory accesses. In reality, modern cache architectures support concurrent data accesses, where the cost of a cache miss can vary significantly depending on overlap with other accesses.
 
 
 ## Design
