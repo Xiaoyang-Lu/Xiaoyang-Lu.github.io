@@ -14,6 +14,7 @@ author_profile: true
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Transactions on Consumer Electronics (TCE)
+- Device
 - Journal of Systems Architecture (JSA)
 - Future Generation Computer Systems (FGCS)
 - Simulation: Transactions of the Society for Modeling and Simulation International
