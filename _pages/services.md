@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## Conference Technical Program Committee
+- European Conference on Computer Systems (EuroSys), 2026
 - IEEE International Conference on Computer Design (ICCD), 2025
 
 
