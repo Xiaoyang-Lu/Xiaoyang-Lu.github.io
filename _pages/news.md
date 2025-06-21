@@ -6,6 +6,8 @@ author_profile: true
 
 
 ## 2025
+
+- **June**: I serve as a Shadow PC member for Eurosys 2026.
 - **May**: Our paper *ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems* was accepted by *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*! Congrats to all collaborators!
 - **April**: Our paper *Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning* was accepted by GLSVLSI 2025! Congrats to all collaborators!
 - **April**: I serve as a TPC member for ICCD 2025.
