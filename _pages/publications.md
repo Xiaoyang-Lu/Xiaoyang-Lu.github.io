@@ -7,6 +7,11 @@ author_profile: true
 
 
 # Conference
+<b>[COSMOS: RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory](../publications/MICRO2025)</b><br>
+Haoran Geng, <b>Xiaoyang Lu</b>, Yuezhi Che, Ziang Tian, Dazhao Cheng, Xian-He Sun, Michael Niemier, X. Sharon Hu.  
+<i>International Symposium on Microarchitecture</i>. <b>MICRO 2025</b>
+
+
 <b>[Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)</b><br>
 Yuping Wu, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>Great Lakes Symposium on VLSI</i>. <b>GLSVLSI 2025</b>

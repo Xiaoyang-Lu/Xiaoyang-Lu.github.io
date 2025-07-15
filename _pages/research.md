@@ -10,14 +10,28 @@ In modern computing, data-intensive applications frequently face memory bottlene
 
 **Publications**
 
-- [CARE – Concurrency-Aware Enhanced Cache Management](../publications/HPCA2023)
-- [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024)
 - [APAC – An Accurate and Adaptive Prefetch Framework](../publications/ICCD2020)
 - [Premier – Concurrency-Aware Cache Pseudo-Partitioning](../publications/ICCD2021)
+- [CARE – Concurrency-Aware Enhanced Cache Management](../publications/HPCA2023)
+- [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024)
 - [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)
 
+---
+
+## AI-Assisted Design for Performance Optimization in Computer Architecture
+
+As modern computer systems grow in complexity and heterogeneity, traditional hardware optimization policies struggle to adapt to dynamic runtime behaviors and diverse workload demands. This research explores how AI techniques—such as reinforcement learning and lightweight perceptron models—can drive adaptive and intelligent decisions in cache and memory management, enabling systems to learn from access patterns and improve performance holistically.
+
+
+**Publications**
+
+- [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024)
+- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)
+- [COSMOS - Counter Cache Optimization for Secure Memory with Reinforcement Learning](../publications/MICRO2025)
 
 ---
+
+
 
 ## Efficient Hardware Design for AI Computing
 
