@@ -25,7 +25,7 @@ Together, these predictors form an RL-driven cache management framework that ada
 
 
 <div style="text-align: center;">
-    <img src="../files/MICRO2025/COSMOS_overview.pdf" alt="Overview of COSMOS" width="80%">
+    <img src="../files/MICRO2025/COSMOS_overview.png" alt="Overview of COSMOS" width="80%">
     <p><em>Overview of the COSMOS architecture with RL-based predictors and LCR-CTR cache</em></p>
 </div>
 
@@ -33,13 +33,10 @@ Together, these predictors form an RL-driven cache management framework that ada
 
 - **Dual RL Predictors**  
   Data location predictor enables **early CTR access** immediately after L1 misses.  
-
 - **Locality-Centric CTR Cache (LCR-CTR)**  
   Retains CTRs marked as high-locality for longer, evicting less critical ones.  
-
 - **Adaptive Online Learning**  
   RL agents refine predictions continuously, eliminating the need for costly offline training.  
-
 - **Lightweight Hardware Overhead**  
   Requires only **147KB additional storage** (≈1.8% of an 8MB LLC).  
 

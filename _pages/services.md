@@ -13,9 +13,11 @@ author_profile: true
 ## Invited Reviewer for Journals & Transactions
 - Device
 - Future Generation Computer Systems (FGCS)
+- IEEE IEEE Transactions on Computers (TC)
 - IEEE Transactions on Consumer Electronics (TCE)
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - Journal of Systems Architecture (JSA)
+- Microprocessors and Microsystems (MICPRO)
 - Simulation: Transactions of the Society for Modeling and Simulation International
