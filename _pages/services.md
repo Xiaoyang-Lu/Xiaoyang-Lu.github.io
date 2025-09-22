@@ -13,7 +13,7 @@ author_profile: true
 ## Invited Reviewer for Journals & Transactions
 - Device
 - Future Generation Computer Systems (FGCS)
-- IEEE IEEE Transactions on Computers (TC)
+- IEEE Transactions on Computers (TC)
 - IEEE Transactions on Consumer Electronics (TCE)
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Network Science and Engineering (TNSE)
