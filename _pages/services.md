@@ -17,7 +17,8 @@ author_profile: true
 - IEEE Transactions on Consumer Electronics (TCE)
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Transactions on Network Science and Engineering (TNSE)
-- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- IEEE Transactions on Parallel and Distributed Systems [(TPDS)](../files/Certificates/certificate_2024_TPDS.pdf)
 - Journal of Systems Architecture (JSA)
+- Memories - Materials, Devices, Circuits and Systems (MEMORI)
 - Microprocessors and Microsystems (MICPRO)
 - Simulation: Transactions of the Society for Modeling and Simulation International
