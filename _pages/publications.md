@@ -7,6 +7,11 @@ author_profile: true
 
 
 # Conference
+<b>[Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/MICRO2025)</b><br>
+Vadim Biryukov, <b>Xiaoyang Lu</b>, Zirui Liu, Kaixiong Zhou, Xian-He Sun.  
+<i>Design, Automation, and Test in Europe</i>. <b>DATE 2026</b>
+
+
 <b>[COSMOS: RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory](../publications/MICRO2025)</b><br>
 Haoran Geng, <b>Xiaoyang Lu</b>, Yuezhi Che, Ziang Tian, Dazhao Cheng, Xian-He Sun, Michael Niemier, X. Sharon Hu.  
 <i>International Symposium on Microarchitecture</i>. <b>MICRO 2025</b>

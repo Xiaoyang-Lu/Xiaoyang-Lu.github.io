@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## Conference Committee Service
+- The Chips To Systems Conference (DAC), Technical Program Committee Member, 2026
 - European Conference on Computer Systems (EuroSys), Shadow Program Committee Member, 2026
 - IEEE International Conference on Computer Design (ICCD), Program Committee Member, 2025
 
