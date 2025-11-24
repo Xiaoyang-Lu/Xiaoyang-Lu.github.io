@@ -54,7 +54,7 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 <i>International Conference on Computer Design</i>. <b>ICCD 2020</b>
 
 # Journals & Transactions
-<b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/)</b><br>
+<b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/TCAD2025)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Sheng Xu, Xiaoming Chen, Xingqi Zou, Yinhe Han, Xian-He Sun.  
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 
