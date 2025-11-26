@@ -26,9 +26,10 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
-- **Nov 2025**: I serve as a ERC member for MLSys 2026.
-- **Nov 2025**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!
-- **Oct 2025**: I serve as a TPC member for DAC 2026.
+- <span style="color: red;">**Nov 2025**: Our paper *I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention* was accepted by ASPLOS 2026! Congrats to all collaborators! *(Acceptance rate: 10.6%)*</span>
+- <span style="color: red;">**Nov 2025**: I serve as a ERC member for MLSys 2026.</span>
+- <span style="color: red;">**Nov 2025**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!</span>
+- <span style="color: red;">**Oct 2025**: I serve as a TPC member for DAC 2026.</span>
 - **Jul 2025**: Our paper *COSMOS: RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory* was accepted by MICRO 2025! Congrats to all collaborators!
 - **Jun 2025**: I serve as a Shadow PC member for Eurosys 2026.
 - **May 2025**: Our paper *ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems* was accepted by *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*! Congrats to all collaborators!

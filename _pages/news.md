@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## 2025
+- **November**: Our paper *I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention* was accepted by ASPLOS 2026! Congrats to all collaborators! *(Acceptance rate: 10.6%)*
 - **November**: I serve as a ERC member for MLSys 2026.
 - **November**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!
 - **October**: I serve as a TPC member for DAC 2026.
