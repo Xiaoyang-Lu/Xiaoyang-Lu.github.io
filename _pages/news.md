@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## 2025
+- **December**: Our paper *I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention* was accepted by IPDPS 2026! Congrats to all collaborators!
 - **November**: Our paper *I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention* was accepted by ASPLOS 2026! Congrats to all collaborators! *(Acceptance rate: 10.6%)*
 - **November**: I serve as a ERC member for MLSys 2026.
 - **November**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!

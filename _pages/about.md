@@ -26,6 +26,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- <span style="color: red;">**Dec 2025**: Our paper *I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention* was accepted by IPDPS 2026! Congrats to all collaborators!</span>
 - <span style="color: red;">**Nov 2025**: Our paper *I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention* was accepted by ASPLOS 2026! Congrats to all collaborators! *(Acceptance rate: 10.6%)*</span>
 - <span style="color: red;">**Nov 2025**: I serve as a ERC member for MLSys 2026.</span>
 - <span style="color: red;">**Nov 2025**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!</span>

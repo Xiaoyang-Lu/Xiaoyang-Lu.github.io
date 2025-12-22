@@ -7,6 +7,11 @@ author_profile: true
 
 
 # Conference
+<b>[(I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>
+<b>Xiaoyang Lu</b>, Lihan Hu, Hongrui Huang, Peng Jiang, Xian-He Sun.  
+<i>International Parallel & Distributed Processing Symposium (IPDPS), 2026 </i>. <b>IPDPS 2026</b>
+
+
 <b>[I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention](../publications/ASPLOS2026)</b><br>
 <b>Xiaoyang Lu</b>, Boyu Long, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b>
