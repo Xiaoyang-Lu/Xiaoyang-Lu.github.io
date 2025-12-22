@@ -8,7 +8,7 @@ author_profile: true
 
 # Conference
 <b>[(I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>
-<b>Xiaoyang Lu</b>, Lihan Hu, Hongrui Huang, Peng Jiang, Xian-He Sun.  
+<b>Xiaoyang Lu</b>\*, Lihan Hu\*, Hongrui Huang, Peng Jiang, Xian-He Sun.  
 <i>International Parallel & Distributed Processing Symposium (IPDPS), 2026 </i>. <b>IPDPS 2026</b>
 
 
