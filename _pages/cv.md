@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](../files/CV/Xiaoyang_cv_122225.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](../files/CV/Xiaoyang_cv_020426.pdf)
 
 
 

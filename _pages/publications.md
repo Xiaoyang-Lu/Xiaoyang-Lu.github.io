@@ -8,7 +8,7 @@ author_profile: true
 
 # Conference
 <b>[I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>
-<b>Xiaoyang Lu</b>\*, Lihan Hu\*, Hongrui Huang, Peng Jiang, Xian-He Sun.  
+<b>Xiaoyang Lu</b>, Lihan Hu, Hongrui Huang, Peng Jiang, Xian-He Sun.  
 <i>International Parallel & Distributed Processing Symposium (IPDPS), 2026 </i>. <b>IPDPS 2026</b>
 
 
@@ -36,7 +36,7 @@ Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Sheng Xu, Xingqi Zou, Yinhe Han, X
 <i>International Conference on Computer Design</i>. <b>ICCD 2024</b>
 
 <b>[ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations](../publications/ASPLOS2024)</b><br>
-<b>Xiaoyang Lu</b>\*, Boyu Long\*, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
+<b>Xiaoyang Lu</b>, Boyu Long, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2024</b>
 
 <b>[CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning ](../publications/HPCA2024)</b><br>
