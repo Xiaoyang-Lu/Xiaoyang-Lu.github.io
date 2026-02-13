@@ -28,7 +28,7 @@ First, the work derives the I/O lower bound for tall-and-skinny matrix multiplic
 
 <div style="text-align: center;">
     <img src="../files/ASPLOS2026/CDAG_attention.png" alt="I/O-optimal CDAGs for long-sequence attention (a) computation of attention scores (𝑆) with immediate reuse of partial results, and (b) computation of outputs (𝑂)" width="80%">
-    <p><em>I/O-optimal CDAGs for long-sequence attention (a) computation of attention scores (𝑆) with immediate reuse of partial results, and (b) computation of outputs (𝑂)</em></p>
+    <p><em>I/O-optimal CDAGs for long-sequence attention (a) computation of attention scores 𝑆 with immediate reuse of partial results, and (b) computation of outputs 𝑂</em></p>
 </div>
 
 Based on this I/O analysis, AttenIO implements:
@@ -59,6 +59,6 @@ AttenIO consistently outperforms state-of-the-art exact attention implementation
 
 ## Conclusion
 
-AttenIO demonstrates that systematic I/O analysis provides a principled foundation for optimizing long-sequence attention. By deriving I/O-optimal tiling and integrating communication-computation overlapping with parallel softmax execution, AttenIO significantly reduces data movement and improves hardware utilization. This work highlights the broader potential of I/O analysis as a design methodology for data-intensive accelerator architectures.
+AttenIO demonstrates that systematic I/O analysis provides a principled foundation for optimizing long-sequence attention. By deriving I/O-optimal dataflow and integrating communication-computation overlapping with parallel softmax execution, AttenIO significantly reduces data movement and improves hardware utilization. This work highlights the broader potential of I/O analysis as a design methodology for data-intensive accelerator architectures.
 
 [paper](../files/ASPLOS2026/ASPLOS2026.pdf)
