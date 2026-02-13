@@ -42,7 +42,7 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 - [ACES – Adaptive and Concurrency-Aware Sparse Matrix Accelerator](../publications/ASPLOS2024)
 - [Pyramid – Accelerating LLM Inference with PIM](../publications/CAL2025)
 - [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/DATE2026)
-
+- [AttenIO – I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention](../publications/ASPLOS2026)
 
 ---
 
