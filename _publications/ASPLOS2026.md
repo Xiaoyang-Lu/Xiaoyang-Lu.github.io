@@ -28,7 +28,7 @@ First, the work derives the I/O lower bound for tall-and-skinny matrix multiplic
 
 <div style="text-align: center;">
     <img src="../files/ASPLOS2026/CDAG_attention.png" alt="I/O-optimal CDAGs for long-sequence attention (a) computation of attention scores (𝑆) with immediate reuse of partial results, and (b) computation of outputs (𝑂)" width="80%">
-    <p><em>I/O-optimal CDAGs for long-sequence attention (a) computation of attention scores 𝑆 with immediate reuse of partial results, and (b) computation of outputs 𝑂</em></p>
+    <p><em>I/O-optimal CDAGs for long-sequence attention (a) computation of attention scores 𝑆 with immediate reuse of partial results, and (b) computation of outputs 𝑂. </em></p>
 </div>
 
 Based on this I/O analysis, AttenIO implements:
@@ -56,6 +56,10 @@ AttenIO consistently outperforms state-of-the-art exact attention implementation
 - 1.6× speedup over FlashAttention-2.
 - Reduces data movement by up to 273× compared to heuristic baselines.
 
+<div style="text-align: center;">
+    <img src="../files/ASPLOS2026/speedup.png" alt="Speedup comparison of FLAT, Standard, FlashAttention-2, and AttenIO." width="80%">
+    <p><em>Speedup comparison of FLAT, Standard, FlashAttention-2, and AttenIO. </em></p>
+</div>
 
 ## Conclusion
 
