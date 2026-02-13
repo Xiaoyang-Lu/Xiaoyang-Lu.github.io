@@ -17,7 +17,7 @@ author_profile: true
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b>
 
 
-<b>[Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/MICRO2025)</b><br>
+<b>[Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/DATE2026)</b><br>
 Vadim Biryukov, <b>Xiaoyang Lu</b>, Zirui Liu, Kaixiong Zhou, Xian-He Sun.  
 <i>Design, Automation, and Test in Europe</i>. <b>DATE 2026</b>
 
