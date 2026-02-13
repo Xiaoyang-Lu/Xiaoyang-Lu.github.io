@@ -5,6 +5,7 @@ permalink: /publications/GLSVLSI2025
 venue: "The 35th Great Lakes Symposium on VLSI (GLSVLSI 2025)"
 date: 2025-6-30
 ---
+Yuping Wu, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun
 
 ## Background
 

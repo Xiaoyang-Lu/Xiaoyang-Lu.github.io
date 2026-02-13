@@ -5,6 +5,7 @@ permalink: /publications/ASPLOS2024
 venue: "The 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024)"
 date: 2024-04-27
 ---
+<b>Xiaoyang Lu</b>, Boyu Long, Xiaoming Chen, Yinhe Han, Xian-He Sun 
 
 
 ## Background

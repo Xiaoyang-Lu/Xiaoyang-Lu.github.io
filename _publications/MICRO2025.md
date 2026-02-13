@@ -5,6 +5,7 @@ permalink: /publications/MICRO2025
 venue: "2025 58th IEEE/ACM International Symposium on Microarchitecture (MICRO 2025)"
 date: 2025-10-18
 ---
+Haoran Geng, <b>Xiaoyang Lu</b>, Yuezhi Che, Ziang Tian, Dazhao Cheng, Xian-He Sun, Michael Niemier, X. Sharon Hu
 
 ## Background
 

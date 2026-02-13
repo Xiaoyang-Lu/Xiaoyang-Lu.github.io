@@ -5,7 +5,7 @@ permalink: /publications/ASPLOS2026
 venue: "The 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026)"
 date: 2026-3-22
 ---
-<b>Xiaoyang Lu</b>, Boyu Long, Xiaoming Chen, Yinhe Han, Xian-He Sun.
+<b>Xiaoyang Lu</b>, Boyu Long, Xiaoming Chen, Yinhe Han, Xian-He Sun
 
 
 ## Background

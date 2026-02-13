@@ -5,6 +5,7 @@ permalink: /publications/ISLPED2021
 venue: "The 2021 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED 2021)"
 date: 2021-07-26
 ---
+Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu</b>, Yinhe Han, Xian-He Sun  
 
 
 ## Background
