@@ -10,7 +10,7 @@ In modern computing, data-intensive applications frequently face memory bottlene
 
 **Publications**
 
-- [APAC – An Accurate and Adaptive Prefetch Framework](../publications/ICCD2020)
+- [APAC – An Accurate and Adaptive Prefetch Framework \[ICCD 2020\]](../publications/ICCD2020)
 - [Premier – Concurrency-Aware Cache Pseudo-Partitioning](../publications/ICCD2021)
 - [CARE – Concurrency-Aware Enhanced Cache Management](../publications/HPCA2023)
 - [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024)
@@ -42,7 +42,7 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 - [ACES – Adaptive and Concurrency-Aware Sparse Matrix Accelerator](../publications/ASPLOS2024)
 - [Pyramid – Accelerating LLM Inference with PIM](../publications/CAL2025)
 - [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/DATE2026)
-- [AttenIO – I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention](../publications/ASPLOS2026)
+- [AttenIO – An I/O Analysis for Long-Sequence Attention](../publications/ASPLOS2026)
 
 ---
 
