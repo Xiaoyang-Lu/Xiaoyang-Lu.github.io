@@ -10,11 +10,13 @@ In modern computing, data-intensive applications frequently face memory bottlene
 
 **Publications**
 
-- [APAC – An Accurate and Adaptive Prefetch Framework \[ICCD 2020\]](../publications/ICCD2020)
-- [Premier – Concurrency-Aware Cache Pseudo-Partitioning](../publications/ICCD2021)
-- [CARE – Concurrency-Aware Enhanced Cache Management](../publications/HPCA2023)
-- [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024)
-- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)
+- [APAC – An Accurate and Adaptive Prefetch Framework (ICCD 2020)](../publications/ICCD2020)
+- [Premier – Concurrency-Aware Cache Pseudo-Partitioning (ICCD 2021)](../publications/ICCD2021)
+- [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading (ISLPED2021)](../publications/ISLPED2021)
+- [CARE – Concurrency-Aware Enhanced Cache Management (HPCA 2023)](../publications/HPCA2023)
+- [CHROME – Holistic Cache Management with Reinforcement Learning (HPCA 2024)](../publications/HPCA2024)
+- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning (GLSVLSI2025)](../publications/GLSVLSI2025)
+- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM (TCAD2025)](../publications/TCAD2025)
 
 ---
 
@@ -25,9 +27,9 @@ As modern computer systems grow in complexity and heterogeneity, traditional har
 
 **Publications**
 
-- [CHROME – Holistic Cache Management with Reinforcement Learning](../publications/HPCA2024)
-- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning](../publications/GLSVLSI2025)
-- [COSMOS - Counter Cache Optimization for Secure Memory with Reinforcement Learning](../publications/MICRO2025)
+- [CHROME – Holistic Cache Management with Reinforcement Learning (HPCA2024)](../publications/HPCA2024)
+- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning (GLSVLSI2025)](../publications/GLSVLSI2025)
+- [COSMOS - Counter Cache Optimization for Secure Memory with Reinforcement Learning (MICRO2025)](../publications/MICRO2025)
 
 ---
 
@@ -39,10 +41,10 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 
 **Publications**
 
-- [ACES – Adaptive and Concurrency-Aware Sparse Matrix Accelerator](../publications/ASPLOS2024)
-- [Pyramid – Accelerating LLM Inference with PIM](../publications/CAL2025)
-- [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/DATE2026)
-- [AttenIO – An I/O Analysis for Long-Sequence Attention](../publications/ASPLOS2026)
+- [ACES – Adaptive and Concurrency-Aware Sparse Matrix Accelerator (ASPLOS2024)](../publications/ASPLOS2024)
+- [Pyramid – Accelerating LLM Inference with PIM (CAL2025)](../publications/CAL2025)
+- [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher (DATE2026)](../publications/DATE2026)
+- [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
 
 ---
 
@@ -52,9 +54,9 @@ Data-intensive applications, particularly those involving complex graph computat
 
 **Publications**
 
-- [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading](../publications/ISLPED2021)
-- [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching](../publications/ICCD2024)
-- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM](../publications/TCAD2025)
+- [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading (ISLPED2021)](../publications/ISLPED2021)
+- [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching (ICCD2024))](../publications/ICCD2024)
+- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM (TCAD2025)](../publications/TCAD2025)
 
 ---
 
@@ -65,5 +67,5 @@ Driven by the demands of big data applications and high-performance computing, m
 
 **Publications**
 
-- [A Generalized Model for Modern Hierarchical Memory Systems](../publications/WSC2022)
-- [The Memory-Bounded Speedup Model and Its Impacts in Computing](../publications/JCST2023)
+- [A Generalized Model for Modern Hierarchical Memory Systems (WSC2022)](../publications/WSC2022)
+- [The Memory-Bounded Speedup Model and Its Impacts in Computing (JCST2023)](../publications/JCST2023)
