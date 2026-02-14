@@ -4,6 +4,7 @@ title: "Research Projects"
 author_profile: true
 ---
 
+
 ## Utilizing Concurrent Data Accesses for High-Performance Data Processing
 
 In modern computing, data-intensive applications frequently face memory bottlenecks that arise from underutilized opportunities for concurrent data access. This research investigates innovative strategies to maximize the benefits of concurrent access in cache management, offering solutions to effectively address the "Memory Wall" problem. Each study introduces specialized frameworks, metrics, and adaptive techniques designed to optimize cache performance by leveraging data access concurrency and reducing data access latency.
@@ -45,6 +46,7 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 - [Pyramid – Accelerating LLM Inference with PIM (CAL2025)](../publications/CAL2025)
 - [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher (DATE2026)](../publications/DATE2026)
 - [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
+- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
 
 ---
 
@@ -57,6 +59,7 @@ Data-intensive applications, particularly those involving complex graph computat
 - [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading (ISLPED2021)](../publications/ISLPED2021)
 - [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching (ICCD2024))](../publications/ICCD2024)
 - [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM (TCAD2025)](../publications/TCAD2025)
+- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
 
 ---
 
@@ -69,3 +72,16 @@ Driven by the demands of big data applications and high-performance computing, m
 
 - [A Generalized Model for Modern Hierarchical Memory Systems (WSC2022)](../publications/WSC2022)
 - [The Memory-Bounded Speedup Model and Its Impacts in Computing (JCST2023)](../publications/JCST2023)
+
+
+---
+
+## I/O Analysis: Building an Analytical Foundation for Data-Centric Computing
+
+Unbalanced technological progress between processors and memory has led to the persistent “memory wall”, fundamentally constraining the performance of modern computing systems. At the same time, the rapid growth of memory-intensive workloads such as machine learning, graph processing, and scientific data analysis has produced massive datasets and significantly increased demands on data movement across memory hierarchies, making system performance more frequently limited by data movement (I/O) than by arithmetic computation. While computational complexity analysis has long guided algorithm design in compute-centric systems, it does not capture the fundamental cost of data movement across memory systems. This gap motivates the need for a principled I/O complexity analysis framework for data-centric system design, where input/output broadly denotes data access and movement across memory levels. This project argues that I/O complexity analysis plays a role in data-centric architectures comparable to that of arithmetic complexity in compute-centric design, and accordingly develops new I/O analysis frameworks, establishes I/O lower-bound reasoning, and introduces constructive methods to translate algorithm-inherent I/O bounds into actionable execution strategies and architecture design decisions.
+
+
+**Publications**
+
+- [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
+- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
