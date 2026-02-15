@@ -6,10 +6,12 @@ author_profile: true
 
 
 ## Conference Committee Service
-- The Conference on Machine Learning and Systems (MLSys), External Review Committee Member, 2026
 - The Chips To Systems Conference (DAC), Technical Program Committee Member, 2026
+- The Conference on Machine Learning and Systems (MLSys), External Review Committee Member, 2026
 - European Conference on Computer Systems (EuroSys), Shadow Program Committee Member, 2026
+- IEEE Cloud Summit, Technical Program Committee Member, 2026
 - IEEE International Conference on Computer Design (ICCD), Program Committee Member, 2025
+
 
 
 ## Invited Reviewer for Journals & Transactions
@@ -24,3 +26,12 @@ author_profile: true
 - Memories - Materials, Devices, Circuits and Systems (MEMORI)
 - Microprocessors and Microsystems (MICPRO)
 - Simulation: Transactions of the Society for Modeling and Simulation International
+
+
+
+
+The Chips To Systems Conference (DAC), Technical Program Committee Member, 2026
+The Conference on Machine Learning and Systems (MLSys), External Review Committee Member, 2026
+European Conference on Computer Systems (EuroSys), Shadow Program Committee Member, 2026
+IEEE Cloud Summit, Technical Program Committee Member, 2026
+IEEE International Conference on Computer Design (ICCD), Program Committee Member, 2025
