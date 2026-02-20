@@ -25,8 +25,8 @@ Finally, a GPU-PILOT heterogeneous system is constructed in which compute-intens
 
 
 <div style="text-align: center;">
-    <img src="../files/IPDPS2026/flow_non_global_rows.png" alt="Per-bank $Q$-stationary scheduling for SDDMM in sparse attention during the prefill stage for non-global rows" width="80%">
-    <p><em>Per-bank $Q$-stationary scheduling for SDDMM in sparse attention during the prefill stage for non-global rows</em></p>
+    <img src="../files/IPDPS2026/flow_non_global_rows.png" alt="Per-bank Q-stationary scheduling for SDDMM in sparse attention during the prefill stage for non-global rows" width="80%">
+    <p><em>Per-bank Q-stationary scheduling for SDDMM in sparse attention during the prefill stage for non-global rows</em></p>
 </div>
 
 ## Key Features
