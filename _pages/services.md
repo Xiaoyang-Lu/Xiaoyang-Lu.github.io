@@ -4,10 +4,12 @@ permalink: /services/
 author_profile: true
 ---
 
+## Editor
+- Guest Editor, IEEE Internet of Things Journal, Special Issue on Integrated Sensing, Memory, Communication, and Computation for Large-Scale AI-Based IoT Systems, 2026
 
 ## Conference Committee Service
-- The Chips To Systems Conference (DAC), Technical Program Committee Member, 2026
-- The Conference on Machine Learning and Systems (MLSys), External Review Committee Member, 2026
+- Chips To Systems Conference (DAC), Technical Program Committee Member, 2026
+- Conference on Machine Learning and Systems (MLSys), External Review Committee Member, 2026
 - European Conference on Computer Systems (EuroSys), Shadow Program Committee Member, 2026
 - IEEE Cloud Summit, Technical Program Committee Member, 2026
 - IEEE International Conference on Computer Design (ICCD), Program Committee Member, 2025
@@ -26,12 +28,3 @@ author_profile: true
 - Memories - Materials, Devices, Circuits and Systems (MEMORI)
 - Microprocessors and Microsystems (MICPRO)
 - Simulation: Transactions of the Society for Modeling and Simulation International
-
-
-
-
-The Chips To Systems Conference (DAC), Technical Program Committee Member, 2026
-The Conference on Machine Learning and Systems (MLSys), External Review Committee Member, 2026
-European Conference on Computer Systems (EuroSys), Shadow Program Committee Member, 2026
-IEEE Cloud Summit, Technical Program Committee Member, 2026
-IEEE International Conference on Computer Design (ICCD), Program Committee Member, 2025
