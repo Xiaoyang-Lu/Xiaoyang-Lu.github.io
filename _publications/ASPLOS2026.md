@@ -67,4 +67,4 @@ AttenIO consistently outperforms state-of-the-art exact attention implementation
 
 AttenIO demonstrates that systematic I/O analysis provides a principled foundation for optimizing long-sequence attention. By deriving I/O-optimal dataflow and integrating communication-computation overlapping with parallel softmax execution, AttenIO significantly reduces data movement and improves hardware utilization. This work highlights the broader potential of I/O analysis as a design methodology for data-intensive accelerator architectures.
 
-[paper](../files/ASPLOS2026/ASPLOS2026.pdf)
+[paper](../files/ASPLOS2026/ASPLOS2026.pdf) [slides](../files/ASPLOS2026/ASPLOS2026_slides.pdf) [poster](../files/ASPLOS2026/ASPLOS2026_poster.pdf)
