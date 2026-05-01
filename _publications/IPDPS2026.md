@@ -5,7 +5,7 @@ permalink: /publications/IPDPS2026
 venue: "2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS 2026)"
 date: 2026-5-25
 ---
-<b>Xiaoyang Lu</b>, Lihan Hu, Hongrui Huang, Peng Jiang, Xian-He Sun
+<b>Xiaoyang Lu</b><sup>*</sup>, Lihan Hu<sup>*</sup>, Hongrui Huang, Peng Jiang, Xian-He Sun
 
 
 ## Background

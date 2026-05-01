@@ -7,17 +7,16 @@ author_profile: true
 
 
 # Conference
-<small>* Equal contribution.</small>
 
 <b>[I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>
 <b>Xiaoyang Lu</b><sup>*</sup>, Lihan Hu<sup>*</sup>, Hongrui Huang, Peng Jiang, Xian-He Sun.  
 <i>International Parallel & Distributed Processing Symposium (IPDPS), 2026 </i>. <b>IPDPS 2026</b>
-
+<small>* Equal contribution.</small>
 
 <b>[I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention](../publications/ASPLOS2026)</b><br>
 <b>Xiaoyang Lu</b><sup>*</sup>, Boyu Long<sup>*</sup>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2026</b>
-
+<small>* Equal contribution.</small>
 
 <b>[Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher](../publications/DATE2026)</b><br>
 Vadim Biryukov, <b>Xiaoyang Lu</b>, Zirui Liu, Kaixiong Zhou, Xian-He Sun.  
@@ -40,6 +39,8 @@ Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Sheng Xu, Xingqi Zou, Yinhe Han, X
 <b>[ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations](../publications/ASPLOS2024)</b><br>
 <b>Xiaoyang Lu</b><sup>*</sup>, Boyu Long<sup>*</sup>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
 <i>International Conference on Architectural Support for Programming Languages and Operating Systems</i>. <b>ASPLOS 2024</b>
+<small>* Equal contribution.</small>
+
 
 <b>[CHROME: Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning ](../publications/HPCA2024)</b><br>
 <b>Xiaoyang Lu</b>, Hamed Najafi, Jason Liu, Xian-He Sun.  
@@ -64,6 +65,10 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 <b>[APAC: An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis](../publications/ICCD2020)</b><br>
 <b>Xiaoyang Lu</b>, Rujia Wang, Xian-He Sun.  
 <i>International Conference on Computer Design</i>. <b>ICCD 2020</b>
+
+
+
+
 
 # Journals & Transactions
 <b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/TCAD2025)</b><br>
