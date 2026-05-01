@@ -6,7 +6,7 @@ author_profile: true
 
 # Conference
 
-<small>* Equal contribution.</small>
+
 
 
 <b>[I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>
@@ -67,7 +67,7 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 
 
 
-
+<sup>*</sup> Equal contribution.
 
 # Journals & Transactions
 <b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/TCAD2025)</b><br>
