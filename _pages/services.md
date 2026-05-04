@@ -27,4 +27,5 @@ author_profile: true
 - Journal of Systems Architecture (JSA)
 - Memories - Materials, Devices, Circuits and Systems (MEMORI)
 - Microprocessors and Microsystems (MICPRO)
+- Neurocomputing
 - Simulation: Transactions of the Society for Modeling and Simulation International
