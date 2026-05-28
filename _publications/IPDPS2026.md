@@ -48,4 +48,4 @@ PILOT consistently outperforms both GPU and prior GPU-PIM baselines across prefi
 PILOT is a PIM-based, I/O-aware software-hardware co-design for accelerating memory-bound attention computations during long-sequence LLM inference. At the software level, a comprehensive I/O analysis is performed to derive optimized tiling and scheduling strategies tailored to hybrid sparse attention in the prefill stage and attention computations in the decoding stage. At the hardware level, computational units are strategically integrated within the memory hierarchy to support efficient near-memory execution. Extensive evaluations demonstrate that PILOT significantly improves performance and substantially reduces internal I/O overhead for memory-bound attention operations. The detailed I/O analysis provides a principled foundation for future architectures designed to efficiently handle workloads with irregular data access patterns.
 
 
-[paper](../files/IPDPS2026/IPDPS2026.pdf)
+[paper](../files/IPDPS2026/IPDPS2026.pdf) [slides](../files/ASPLOS2026/IPDPS2026_slides.pdf)
