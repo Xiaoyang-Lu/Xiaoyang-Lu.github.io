@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## 2026
-- **May 2026**: I serve as a PC member for HPCA 2027.</span>
-- **May 2026**: I was invited to deliver a talk at ESSA 2026, titled *Toward Data-Centric Computing: Data-Movement Analysis, Concurrency-Aware Optimization, and Memory-Centric Architecture*.</span>
+- **May 2026**: I serve as a PC member for HPCA 2027.
+- **May 2026**: I was invited to deliver a talk at ESSA 2026, titled *Toward Data-Centric Computing: Data-Movement Analysis, Concurrency-Aware Optimization, and Memory-Centric Architecture*.
 
 ## 2025
 - **December**: Our paper *I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention* was accepted by IPDPS 2026! Congrats to all collaborators!
