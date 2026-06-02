@@ -32,16 +32,8 @@ Updates
 - **Nov 2025**: Our paper *I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention* was accepted by ASPLOS 2026! Congrats to all collaborators! *(Acceptance rate: 10.6%)*
 - **Nov 2025**: I serve as a ERC member for MLSys 2026.
 - **Nov 2025**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!
-- **Oct 2025**: I serve as a TPC member for DAC 2026.
+- **Oct 2025**: I serve as a PC member for DAC 2026.
 - **Jul 2025**: Our paper *COSMOS: RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory* was accepted by MICRO 2025! Congrats to all collaborators!
-- **Jun 2025**: I serve as a Shadow PC member for Eurosys 2026.
-- **May 2025**: Our paper *ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems* was accepted by *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*! Congrats to all collaborators!
-- **Apr 2025**: Our paper *Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning* was accepted by GLSVLSI 2025! Congrats to all collaborators!
-- **Apr 2025**: I serve as a TPC member for ICCD 2025.
-- **Apr 2025**: Our paper *Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory* was accepted by *IEEE Computer Architecture Letters*! Congrats to all collaborators!
-- **Aug 2024**: Our paper *AceMiner: Accelerating Graph Pattern Matching using PIM with Optimized Cache System* was accepted by ICCD 2024! Congrats to all collaborators!
-- **Feb 2024**: Our paper *ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations* was accepted by ASPLOS 2024! Congrats to all collaborators! *(Acceptance rate: 11.5%)*
-
 
 
 

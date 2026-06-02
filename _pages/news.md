@@ -13,7 +13,7 @@ author_profile: true
 - **November**: Our paper *I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention* was accepted by ASPLOS 2026! Congrats to all collaborators! *(Acceptance rate: 10.6%)*
 - **November**: I serve as a ERC member for MLSys 2026.
 - **November**: Our paper *Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher* was accepted by DATE 2026! Congrats to all collaborators!
-- **October**: I serve as a TPC member for DAC 2026.
+- **October**: I serve as a PC member for DAC 2026.
 - **July**: Our paper *COSMOS: RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory* was accepted by MICRO 2025! Congrats to all collaborators!
 - **June**: I serve as a Shadow PC member for Eurosys 2026.
 - **May**: Our paper *ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems* was accepted by *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*! Congrats to all collaborators!
