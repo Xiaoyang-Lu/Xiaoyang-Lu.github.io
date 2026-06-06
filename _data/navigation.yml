@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Services"
-    url: /services/
-
   - title: "Talks"
     url: /talks/
+    
+  - title: "Services"
+    url: /services/
 
   - title: "News"
     url: /news/
