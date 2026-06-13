@@ -44,5 +44,5 @@ Updates
 -->
 
 <!-- GoatCounter visitor tracking -->
-<script data-goatcounter="https://YOURCODE.goatcounter.com/count"
-        async src="https://gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://dalglish77.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
