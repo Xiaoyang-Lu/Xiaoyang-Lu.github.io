@@ -55,7 +55,7 @@ Updates
 <div style="width: 250px; max-width: 100%; margin: 20px 0; text-align: left;">
   <a href="https://mapmyvisitors.com/web/1c5cm" title="Visit tracker">
     <img
-      src="https://mapmyvisitors.com/map.png?d=p5yH_wWkzv36A66-zF0i4nil92bZxKwVvRNbZHG4MbM&amp;cl=ffffff"
+      src="https://mapmyvisitors.com/map.png?d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&amp;cl=ffffff"
       style="width: 100%; height: auto; border: none;"
       alt="MapMyVisitors"
     >
