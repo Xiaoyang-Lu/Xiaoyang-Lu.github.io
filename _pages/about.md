@@ -52,7 +52,9 @@ Updates
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&cl=ffffff&w=a"></script>
 -->
 
-<div style="width: 400px; max-width: 100%; margin: 20px auto; text-align: center;">
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=t0j4WpjdSKyyzl995Wqjy_i1JTHlXZWdKCANWvX7Sbk"></script>
+
+<div style="width: 250px; max-width: 100%; margin: 20px auto; text-align: center;">
   <a href="https://mapmyvisitors.com/web/1c5cm" title="Visit tracker">
     <img
       src="https://mapmyvisitors.com/map.png?d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&amp;cl=ffffff"
