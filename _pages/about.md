@@ -44,5 +44,9 @@ Updates
 -->
 
 <!-- GoatCounter visitor tracking -->
+<!--
 <script data-goatcounter="https://dalglish77.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+-->
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&cl=ffffff&w=a"></script>
