@@ -39,4 +39,10 @@ Updates
 
 ## Recent Visit
 
+<!--
 <a href="https://clustrmaps.com/site/1byqg"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=bsYxMGsaNlwJCwQ8pgkgt0Arixg1DL3me1GDZRUAgL8&cl=ffffff" /></a>
+-->
+
+<!-- GoatCounter visitor tracking -->
+<script data-goatcounter="https://YOURCODE.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
