@@ -6,7 +6,9 @@ author_profile: true
 
 # Conference
 
-
+<b>[HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory](../publications/CCMCC2026)</b><br>
+Jinlin Wu, Ferit Ozdaban, Selvanathan Sadhasivam, <b>Xiaoyang Lu</b>, Yunhui Guo, Minxuan Zhou.  
+<i>2nd Cross-Disciplinary Conference on Memory-Centric Systems (CCMCC), 2026</i>. <b>CCMCC 2026</b>
 
 
 <b>[I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>

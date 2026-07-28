@@ -26,6 +26,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- **Jul 2026**: Our paper *HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory* was accepted by CCMCC 2026! Congrats to all collaborators!
 - **May 2026**: I serve as a PC member for HPCA 2027.
 - **May 2026**: I was invited to deliver a talk at ESSA 2026.
 - **Dec 2025**: Our paper *I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention* was accepted by IPDPS 2026! Congrats to all collaborators!
