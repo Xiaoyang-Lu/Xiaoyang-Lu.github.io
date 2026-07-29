@@ -15,6 +15,8 @@ Click [here](../cv) to see the up-to-date version of my CV.
 <!--
 <b>Prospective students: I am looking for self-motivated students interested in computer architecture and working together at [Gnosis Research Center](https://grc.iit.edu/). If you are interested, please feel free to email me your resume and transcripts.</b>
 -->
+
+
 Research Interests
 ======
 I conduct research in Computer Architecture and High-Performance Systems, focusing on:
