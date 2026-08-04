@@ -60,7 +60,6 @@ Updates
     <img
       src="https://mapmyvisitors.com/map.png?d=p5yH_wWkzv36A66-zF0i4nil92bXzKwVvRNbZHG4MbM&amp;cl=ffffff"
       style="width: 100%; height: auto; border: none;"
-      alt="MapMyVisitors"
-    >
+      alt="MapMyVisitors">
   </a>
 </div>
