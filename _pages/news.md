@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2026
+- **August 2026**: Our paper *Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs* was accepted to PACT 2026! Congrats to all collaborators!
 - **July 2026**: Our paper *HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory* was accepted by CCMCC 2026! Congrats to all collaborators!
 - **June 2026** Our ASPLOS 2026 paper [*I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention*](https://xiaoyang-lu.github.io/publications/ASPLOS2026) was featured on the [Chameleon Cloud Blog](https://blog.chameleoncloud.org/posts/attenio-io-analysis-long-sequence-attention/), highlighting our AttenIO framework and its I/O-centric analysis for long-sequence attention.
 - **May 2026**: I serve as a PC member for HPCA 2027.

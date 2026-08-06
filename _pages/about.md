@@ -28,6 +28,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- **Aug 2026**: Our paper *Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs* was accepted to PACT 2026! Congratulations to all collaborators!
 - **Jul 2026**: Our paper *HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory* was accepted by CCMCC 2026! Congrats to all collaborators!
 - **May 2026**: I serve as a PC member for HPCA 2027.
 - **May 2026**: I was invited to deliver a talk at ESSA 2026.
