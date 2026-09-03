@@ -89,3 +89,13 @@ Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.
 <b>[The Memory-Bounded Speedup Model and its Impacts in Computing](../publications/JCST2023)</b><br>
 Xian-He Sun, <b>Xiaoyang Lu</b>.  
 <i>Journal of Computer Science and Technology (JCST), 38 (1), 64-79.
+
+# Preprints
+<b>[DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference](https://arxiv.org/pdf/2609.00407)</b><br>
+<b>Xiaoyang Lu</b>, Belthangady Akash Vi Narayana Pai, Xian-He Sun.  
+<i>arXiv preprint, 2026.</i>
+
+
+<b>[VIPER: Architecture-Aware Performance Modeling for Processing-in-Memory Design-Space Exploration](https://arxiv.org/pdf/2608.23404v1)</b><br>
+Haoran Geng, Tomas Sousa Pereira, <b>Xiaoyang Lu</b>, Xian-He Sun, Michael Niemier, X. Sharon Hu.  
+<i>arXiv preprint, 2026.</i>

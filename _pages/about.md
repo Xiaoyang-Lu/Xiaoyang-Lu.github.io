@@ -28,6 +28,8 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- **Sep 2026**: Our work *DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference* is now available on [arXiv] (https://arxiv.org/pdf/2609.00407).
+- **Aug 2026**: Our work *VIPER: Architecture-Aware Performance Modeling for Processing-in-Memory Design-Space Exploration* is now available on [arXiv](https://arxiv.org/pdf/2609.00407).
 - **Aug 2026**: Our paper *Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs* was accepted to PACT 2026! Congratulations to all collaborators!
 - **Jul 2026**: Our paper *HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory* was accepted by CCMCC 2026! Congrats to all collaborators!
 - **May 2026**: I serve as a PC member for HPCA 2027.
