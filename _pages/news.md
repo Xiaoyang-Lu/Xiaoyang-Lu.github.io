@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2026
+- **September 2026**: I serve as a PC member for EuroSys 2027.
 - **September 2026**: Our work *DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference* is now available on [arXiv](https://arxiv.org/pdf/2609.00407).
 - **August 2026**: Our work *VIPER: Architecture-Aware Performance Modeling for Processing-in-Memory Design-Space Exploration* is now available on [arXiv](https://arxiv.org/pdf/2609.00407).
 - **August 2026**: Our paper *Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs* was accepted to PACT 2026! Congrats to all collaborators!
