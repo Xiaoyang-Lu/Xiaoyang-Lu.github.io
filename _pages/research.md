@@ -47,7 +47,7 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 - [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher (DATE2026)](../publications/DATE2026)
 - [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
 - [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
-
+- [Ziggs – Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs (PACT2026)](../publications/PACT2026)
 ---
 
 ## Leveraging Processing-in-Memory for Data-Intensive Applications
