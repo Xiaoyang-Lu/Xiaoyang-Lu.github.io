@@ -6,6 +6,7 @@ author_profile: true
 
 ## Editor
 - Guest Editor, IEEE Internet of Things Journal, Special Issue on Integrated Sensing, Memory, Communication, and Computation for Large-Scale AI-Based IoT Systems, 2026
+---
 
 ## Conference Service
 ### Program Committee
@@ -20,6 +21,7 @@ author_profile: true
 
 ### Session Chair
 - International Conference on Parallel Architectures and Compilation Techniques (PACT), Session Chair, 2026
+---
 
 ## Invited Reviewer for Journals & Transactions
 - Device
