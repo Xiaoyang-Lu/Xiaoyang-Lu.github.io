@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a Research Assistant Professor in the College of Computing at Illinois Tech, where I work closely with [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) at [Gnosis Research Center](https://grc.iit.edu/). My research lies at the intersection of computer architecture and systems, with a focus on **data-centric system design** for AI and high-performance computing (HPC). I develop analytical models to characterize data-access and data-movement costs, translate these insights into memory-system and accelerator optimizations, and design memory-centric architectures and execution mechanisms for efficient computing.
+I am a Research Assistant Professor in the College of Computing at Illinois Tech, where I work closely with [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/index.html) at [Gnosis Research Center](https://grc.iit.edu/). My research lies at the intersection of computer architecture and systems, with a focus on **data-centric system design** for AI and high-performance computing (HPC). I develop analytical models to characterize data-access and data-movement costs, translate these insights into memory-system and accelerator optimizations, and design memory-centric architectures and execution mechanisms for efficient computing.
 
 <b>Email: xlu40@illinoistech.edu</b>
 
