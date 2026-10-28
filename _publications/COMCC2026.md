@@ -39,4 +39,4 @@ Experiments on hyperbolic machine learning workloads demonstrate:
 
 HyPIM demonstrates how **hardware–software co-design and processing-in-memory** can accelerate hyperbolic machine learning. By combining GPU computation with PIM-based execution of memory-intensive hyperbolic operations, optimized data layouts, and wavefront scheduling, HyPIM reduces data movement and improves the performance and energy efficiency of emerging AI workloads.
 
-[paper](../files/CCMCC2026/CCMCC2026.pdf) | [poster](../files/CCMCC2026/CCMCC2026_poster.pdf)
+[paper](../files/CCMCC2026/CCMCC2026.pdf) [poster](../files/CCMCC2026/CCMCC2026_poster.pdf)
