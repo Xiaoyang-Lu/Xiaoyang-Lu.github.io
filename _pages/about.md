@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor in the College of Computing at Illinois Tech, where I work closely with [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) at [Gnosis Research Center](https://grc.iit.edu/). My research spans several areas in Computer Architecture and High-Performance Systems, with a particular focus on optimizing memory hierarchies, enhancing data-centric designs, leveraging AI to improve system performance, and enabling efficient algorithm-hardware co-design.
+
+
+I am a Research Assistant Professor in the College of Computing at Illinois Tech, where I work closely with [Prof. Xian-He Sun](http://www.cs.iit.edu/~scs/sun/biography.html) at [Gnosis Research Center](https://grc.iit.edu/). My research lies at the intersection of computer architecture and systems, with a focus on **data-centric system design** for AI and high-performance computing (HPC). I develop analytical models to characterize data-access and data-movement costs, translate these insights into memory-system and accelerator optimizations, and design memory-centric architectures and execution mechanisms for efficient computing.
+
 
 <b>Email: xlu40@illinoistech.edu</b>
 
@@ -19,12 +22,26 @@ Click [here](../cv) to see the up-to-date version of my CV.
 
 Research Interests
 ======
+- **Performance and I/O Modeling:** Modeling data-movement requirements and memory-performance costs for AI/HPC workloads.
+- **Concurrency-Aware Memory-System Optimization:** Exploiting data locality and memory-access concurrency to improve cache management, prefetching, and memory-hierarchy performance.
+- **Memory-Centric Architectures:** Processing-in-memory (PIM), near-data processing, and heterogeneous execution for AI/HPC applications.
+- **Learning-Assisted System Optimization:** Applying reinforcement learning and lightweight machine-learning techniques to adaptive architecture and system optimization.
+
+<div style="background-color: #eef6ff; color: #1f2937; border-left: 4px solid #2563eb; padding: 12px 16px; margin: 12px 0 20px;">
+  <strong>2026–2027 Faculty Job Market</strong>
+  <p style="margin: 6px 0 0;">
+    I am seeking tenure-track Assistant Professor positions in Computer Architecture and Systems, with a focus on data-centric computing, memory systems, and AI/HPC systems.
+  </p>
+</div>
+
+<!--
 I conduct research in Computer Architecture and High-Performance Systems, focusing on:
 - Memory performance modeling
 - Cache/memory performance optimizations
 - Data-centric design for computer architecture
 - AI-assisted design for computer architecture (AI for Systems)
 - Efficient algorithm-hardware co-design for AI (Systems for AI)
+-->
 
 Updates
 ======
