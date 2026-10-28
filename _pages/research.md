@@ -48,6 +48,9 @@ As AI applications grow in complexity, they demand increasingly efficient hardwa
 - [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
 - [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
 - [Ziggs – Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs (PACT2026)](../publications/PACT2026)
+- [HyPIM – Accelerating Hyperbolic Machine Learning via Processing-In-Memory (CCMCC2026)](../publications/CCMCC2026)
+
+
 ---
 
 ## Leveraging Processing-in-Memory for Data-Intensive Applications
@@ -60,6 +63,7 @@ Data-intensive applications, particularly those involving complex graph computat
 - [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching (ICCD2024))](../publications/ICCD2024)
 - [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM (TCAD2025)](../publications/TCAD2025)
 - [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
+- [HyPIM – Accelerating Hyperbolic Machine Learning via Processing-In-Memory (CCMCC2026)](../publications/CCMCC2026)
 
 ---
 
