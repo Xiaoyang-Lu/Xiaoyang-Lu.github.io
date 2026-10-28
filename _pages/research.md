@@ -1,91 +1,53 @@
----
-permalink: /research/
-title: "Research Projects"
-author_profile: true
----
+My research focuses on **data-centric computer architecture and systems** for memory-intensive AI and high-performance computing (HPC) workloads. Across four complementary directions, I study how to characterize data-access and data-movement costs, exploit locality and concurrency, and match execution strategies with memory-system capabilities.
 
+## Concurrency-Aware Memory-System Optimization
 
-## Utilizing Concurrent Data Accesses for High-Performance Data Processing
+Modern memory hierarchies must handle diverse and evolving access patterns, yet conventional cache and prefetching policies often overlook the effects of concurrent data accesses on performance. This research develops concurrency-aware models and adaptive techniques for cache management, prefetching, and memory-hierarchy optimization. By combining memory-access concurrency, data locality, and runtime feedback, these methods aim to reduce exposed memory latency and improve performance across data-intensive workloads.
 
-In modern computing, data-intensive applications frequently face memory bottlenecks that arise from underutilized opportunities for concurrent data access. This research investigates innovative strategies to maximize the benefits of concurrent access in cache management, offering solutions to effectively address the "Memory Wall" problem. Each study introduces specialized frameworks, metrics, and adaptive techniques designed to optimize cache performance by leveraging data access concurrency and reducing data access latency.
+**Selected Publications**
 
-**Publications**
-
-- [APAC – An Accurate and Adaptive Prefetch Framework (ICCD 2020)](../publications/ICCD2020)
-- [Premier – Concurrency-Aware Cache Pseudo-Partitioning (ICCD 2021)](../publications/ICCD2021)
-- [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading (ISLPED2021)](../publications/ISLPED2021)
-- [CARE – Concurrency-Aware Enhanced Cache Management (HPCA 2023)](../publications/HPCA2023)
-- [CHROME – Holistic Cache Management with Reinforcement Learning (HPCA 2024)](../publications/HPCA2024)
-- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning (GLSVLSI2025)](../publications/GLSVLSI2025)
-- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM (TCAD2025)](../publications/TCAD2025)
-
+- [COSMOS – RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory (MICRO 2025)](../publications/MICRO2025)
+- [CHROME – Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning (HPCA 2024)](../publications/HPCA2024)
+- [CARE – A Concurrency-Aware Enhanced Lightweight Cache Management Framework (HPCA 2023)](../publications/HPCA2023)
+- [APAC – An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis (ICCD 2020)](../publications/ICCD2020)
 ---
 
-## AI-Assisted Design for Performance Optimization in Computer Architecture
+## Performance and I/O Modeling
 
-As modern computer systems grow in complexity and heterogeneity, traditional hardware optimization policies struggle to adapt to dynamic runtime behaviors and diverse workload demands. This research explores how AI techniques—such as reinforcement learning and lightweight perceptron models—can drive adaptive and intelligent decisions in cache and memory management, enabling systems to learn from access patterns and improve performance holistically.
+Understanding data-access and data-movement costs is essential for optimizing memory-intensive AI and HPC workloads. This research develops analytical models of hierarchical memory performance and I/O complexity to identify bottlenecks, establish fundamental performance limits, and guide algorithm and system design. The resulting models connect workload requirements with architecture-level decisions, from concurrency-aware memory performance to long-sequence attention and processing-in-memory (PIM) design-space exploration.
 
+**Selected Publications**
 
-**Publications**
-
-- [CHROME – Holistic Cache Management with Reinforcement Learning (HPCA2024)](../publications/HPCA2024)
-- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning (GLSVLSI2025)](../publications/GLSVLSI2025)
-- [COSMOS - Counter Cache Optimization for Secure Memory with Reinforcement Learning (MICRO2025)](../publications/MICRO2025)
+- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS 2026)](../publications/IPDPS2026)
+- [AttenIO – I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention (ASPLOS 2026)](../publications/ASPLOS2026)
+- [The Memory-Bounded Speedup Model and its Impacts in Computing (JCST 2023)](../publications/JCST2023)
+- [A Generalized Model For Modern Hierarchical Memory System (WSC 2022)](../publications/WSC2022)
 
 ---
 
+## Learning-Assisted System Optimization
 
+As workloads and hardware resource constraints become increasingly diverse, static optimization policies cannot always sustain high performance. This research applies reinforcement learning and lightweight machine-learning methods to predict memory behavior and guide adaptive system and execution decisions. Applications include cache management, secure-memory counter caching, and reuse-aware GPU block scheduling, combining online adaptation and offline learning with an emphasis on performance efficiency and practical runtime overhead.
 
-## Efficient Hardware Design for AI Computing
+**Selected Publications**
 
-As AI applications grow in complexity, they demand increasingly efficient hardware architectures to manage huge memory demands and high-dimensional computations. This research focuses on designing hardware solutions that not only accelerate AI computation but also optimize memory access efficiency—a critical factor in achieving high performance in data-intensive AI tasks.
-
-**Publications**
-
-- [ACES – Adaptive and Concurrency-Aware Sparse Matrix Accelerator (ASPLOS2024)](../publications/ASPLOS2024)
-- [Pyramid – Accelerating LLM Inference with PIM (CAL2025)](../publications/CAL2025)
-- [Zion – A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher (DATE2026)](../publications/DATE2026)
-- [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
-- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
-- [Ziggs – Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs (PACT2026)](../publications/PACT2026)
-- [HyPIM – Accelerating Hyperbolic Machine Learning via Processing-In-Memory (CCMCC2026)](../publications/CCMCC2026)
-
+- [Ziggs – Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs (PACT 2026)](../publications/PACT2026)
+- [COSMOS – RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory (MICRO 2025)](../publications/MICRO2025)
+- [CAMP – Concurrency-Aware Cache Miss Cost Prediction with Perceptron Learning (GLSVLSI 2025)](../publications/GLSVLSI2025)
+- [CHROME – Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning (HPCA 2024)](../publications/HPCA2024)
 
 ---
 
-## Leveraging Processing-in-Memory for Data-Intensive Applications
+## Data-Centric AI/HPC Architectures
 
-Data-intensive applications, particularly those involving complex graph computations, face significant performance bottlenecks due to heavy data movement and irregular memory access patterns. This research explores innovative processing-in-memory (PIM) architectures to tackle these challenges, reducing the reliance on CPU and minimizing data transfer overhead. Each study introduces a unique approach to enhance graph computing efficiency through PIM by leveraging memory locality and concurrency.
+Moving data between processors and memory can dominate the cost of graph analytics, sparse computation, and modern AI inference. This research explores processing-in-memory (PIM), near-data processing, and data-movement-aware acceleration to place computation closer to data or reuse data more effectively on existing hardware. It also investigates heterogeneous execution and GPU scheduling techniques that match workload data-access requirements with the capabilities of memory-centric architectures and systems.
 
-**Publications**
+**Selected Publications**
 
-- [CoPIM – Concurrency-Aware PIM Architecture for Efficient Graph Offloading (ISLPED2021)](../publications/ISLPED2021)
-- [AceMiner – Accelerating Graph Pattern Matching with In-DRAM Caching (ICCD2024))](../publications/ICCD2024)
-- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining with PIM (TCAD2025)](../publications/TCAD2025)
-- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
-- [HyPIM – Accelerating Hyperbolic Machine Learning via Processing-In-Memory (CCMCC2026)](../publications/CCMCC2026)
+- [Ziggs – Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs (PACT 2026)](../publications/PACT2026)
+- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS 2026)](../publications/IPDPS2026)
+- [DynaNDE – Dynamic Near-Data Expert Scheduling for Batched MoE Inference (arXiv preprint, 2026)](https://arxiv.org/pdf/2609.00407)
+- [ACES – Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations (ASPLOS 2024)](../publications/ASPLOS2024)
+- [CoPIM – A Concurrency-Aware PIM Workload Offloading Architecture for Graph Applications (ISLPED 2021)](../publications/ISLPED2021)
 
----
-
-## Concurrency-Aware Memory Performance Modeling
-
-Driven by the demands of big data applications and high-performance computing, modern computing requires precise memory performance models that effectively capture the impact of concurrency. This research delves into how concurrent data access influences memory system performance, introducing advanced modeling techniques to deepen our understanding of memory bottlenecks, particularly within multi-core systems where concurrency is a critical factor.
-
-
-**Publications**
-
-- [A Generalized Model for Modern Hierarchical Memory Systems (WSC2022)](../publications/WSC2022)
-- [The Memory-Bounded Speedup Model and Its Impacts in Computing (JCST2023)](../publications/JCST2023)
-
-
----
-
-## I/O Analysis: Building an Analytical Foundation for Data-Centric Computing
-
-Modern system performance more frequently limited by data movement (I/O) than by arithmetic computation. While computational complexity analysis has long guided algorithm design in compute-centric systems, it does not capture the fundamental cost of data movement across memory systems. This project argues that I/O complexity analysis plays a role in data-centric architectures comparable to that of arithmetic complexity in compute-centric design, and accordingly develops new I/O analysis frameworks, establishes I/O lower-bound reasoning, and introduces constructive methods to translate algorithm-inherent I/O bounds into actionable execution strategies and architecture design decisions.
-
-
-**Publications**
-
-- [AttenIO – An I/O Analysis for Long-Sequence Attention (ASPLOS2026)](../publications/ASPLOS2026)
-- [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS2026)](../publications/IPDPS2026)
+**[Complete Bibliography](/publications/)**
