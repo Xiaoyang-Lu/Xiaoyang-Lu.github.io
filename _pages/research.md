@@ -6,10 +6,11 @@ Modern memory hierarchies must handle diverse and evolving access patterns, yet 
 
 **Selected Publications**
 
-- [COSMOS – RL-Enhanced Locality-Aware Counter Cache Optimization for Secure Memory (MICRO 2025)](../publications/MICRO2025)
+- [ACES – Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations (ASPLOS 2024)](../publications/ASPLOS2024)
 - [CHROME – Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning (HPCA 2024)](../publications/HPCA2024)
 - [CARE – A Concurrency-Aware Enhanced Lightweight Cache Management Framework (HPCA 2023)](../publications/HPCA2023)
 - [APAC – An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis (ICCD 2020)](../publications/ICCD2020)
+
 ---
 
 ## Performance and I/O Modeling
@@ -44,7 +45,6 @@ Moving data between processors and memory can dominate the cost of graph analyti
 
 **Selected Publications**
 
-- [Ziggs – Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs (PACT 2026)](../publications/PACT2026)
 - [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS 2026)](../publications/IPDPS2026)
 - [DynaNDE – Dynamic Near-Data Expert Scheduling for Batched MoE Inference (arXiv preprint, 2026)](https://arxiv.org/pdf/2609.00407)
 - [ACES – Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations (ASPLOS 2024)](../publications/ASPLOS2024)
