@@ -8,7 +8,7 @@ author_profile: true
 - Guest Editor, IEEE Internet of Things Journal, Special Issue on Integrated Sensing, Memory, Communication, and Computation for Large-Scale AI-Based IoT Systems, 2026
 
 ## Conference Service
-# Program Committee
+### Program Committee
 - Chips To Systems Conference (DAC), Program Committee Member, 2027
 - European Conference on Computer Systems (EuroSys), Program Committee Member, 2027
 - IEEE International Symposium on High Performance Computer Architecture (HPCA), Program Committee Member, 2027
@@ -17,9 +17,8 @@ author_profile: true
 - European Conference on Computer Systems (EuroSys), Shadow Program Committee Member, 2026
 - IEEE Cloud Summit, Technical Program Committee Member, 2026
 - IEEE International Conference on Computer Design (ICCD), Program Committee Member, 2025
-# Session Chair
+### Session Chair
 - International Conference on Parallel Architectures and Compilation Techniques (PACT), Session Chair, 2026
-
 
 ## Invited Reviewer for Journals & Transactions
 - Device
