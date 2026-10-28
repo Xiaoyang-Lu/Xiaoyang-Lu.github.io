@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 My research focuses on **data-centric computer architecture and systems** for memory-intensive AI and high-performance computing (HPC) workloads. Across four complementary directions, I study how to characterize data-access and data-movement costs, exploit locality and concurrency, and match execution strategies with memory-system capabilities.
 
 ## Concurrency-Aware Memory-System Optimization
