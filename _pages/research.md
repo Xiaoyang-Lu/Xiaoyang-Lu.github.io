@@ -47,13 +47,13 @@ As workloads and hardware resource constraints become increasingly diverse, stat
 
 ## Data-Centric AI/HPC Architectures
 
-Moving data between processors and memory can dominate the cost of graph analytics, sparse computation, and modern AI inference. This research explores processing-in-memory (PIM), near-data processing, and data-movement-aware acceleration to place computation closer to data or reuse data more effectively on existing hardware. It also investigates heterogeneous execution and GPU scheduling techniques that match workload data-access requirements with the capabilities of memory-centric architectures and systems.
+Moving data between processors and memory can dominate the cost of graph analytics, sparse computation, and modern AI inference. This research explores processing-in-memory (PIM), near-data processing, and data-movement-aware acceleration to place computation closer to data or reuse data more effectively on existing hardware.
 
 **Selected Publications**
 
 - [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS 2026)](../publications/IPDPS2026)
 - [DynaNDE – Dynamic Near-Data Expert Scheduling for Batched MoE Inference (arXiv preprint, 2026)](https://arxiv.org/pdf/2609.00407)
-- [ACES – Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations (ASPLOS 2024)](../publications/ASPLOS2024)
+- [ProMiner – Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems (TCAD 2025)](../publications/TCAD2025)
 - [CoPIM – A Concurrency-Aware PIM Workload Offloading Architecture for Graph Applications (ISLPED 2021)](../publications/ISLPED2021)
 
 **[Complete Bibliography](/publications/)**
