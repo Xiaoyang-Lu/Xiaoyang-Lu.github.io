@@ -32,7 +32,7 @@ Research Interests
 - **Concurrency-Aware Memory-System Optimization:** Exploiting data locality and memory-access concurrency to improve cache management, prefetching, and memory-hierarchy performance.
 - **Performance and I/O Modeling:** Modeling data-movement requirements and memory-performance costs for AI/HPC workloads.
 - **Learning-Assisted System Optimization:** Applying reinforcement learning and lightweight machine-learning techniques to adaptive architecture and system optimization.
-- **Data-Centric Architectures:** Processing-in-memory (PIM), near-data processing, and heterogeneous execution for AI/HPC applications.
+- **Data-Centric AI/HPC Architectures:** Processing-in-memory (PIM), near-data processing, and heterogeneous execution for AI/HPC applications.
 
 
 

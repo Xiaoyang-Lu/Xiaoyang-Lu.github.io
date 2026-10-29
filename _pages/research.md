@@ -47,7 +47,7 @@ As workloads and hardware resource constraints become increasingly diverse, stat
 
 ## Data-Centric AI/HPC Architectures
 
-Moving data between processors and memory can dominate the cost of graph analytics, sparse computation, and modern AI inference. This research explores processing-in-memory (PIM), near-data processing, and data-movement-aware acceleration to place computation closer to data or reuse data more effectively on existing hardware.
+Moving data between processors and memory can dominate the cost of graph analytics, sparse computation, and modern AI inference. This research explores processing-in-memory (PIM), near-data processing, and data-movement-aware acceleration to place computation closer to data or reuse data more effectively on existing hardware. This direction also explores heterogeneous execution strategies that match workload data-access requirements with available computing and memory resources.
 
 **Selected Publications**
 
