@@ -45,7 +45,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
-- **Nov 2026**: Our paper *Rethinking Tiered Memory Management through Memory Access Concurrency* was <span style="color: #c62828; font-weight: bold;">accepted to HPCA 2027!</span> Congratulations to all collaborators! *(Acceptance rate: 17.9%)*
+- **Nov 2026**: <span style="color: #c62828; font-weight: bold;"> Our paper *Rethinking Tiered Memory Management through Memory Access Concurrency* was accepted to HPCA 2027! Congratulations to all collaborators! *(Acceptance rate: 17.9%)*</span>
 - **Oct 2026**: I serve as a PC member for DAC 2027.
 - **Sep 2026**: I serve as a PC member for EuroSys 2027.
 - **Sep 2026**: Our work *DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference* is now available on [arXiv](https://arxiv.org/pdf/2609.00407).
