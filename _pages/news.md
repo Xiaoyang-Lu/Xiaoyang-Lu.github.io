@@ -5,10 +5,11 @@ author_profile: true
 ---
 
 ## 2026
+- **November**: Our paper *Rethinking Tiered Memory Management through Memory Access Concurrency* was accepted by HPCA 2027! Congrats to all collaborators! *(Acceptance rate: 17.9%)*
 - **October 2026**: I serve as a PC member for DAC 2027.
 - **September 2026**: I serve as a PC member for EuroSys 2027.
 - **September 2026**: Our work *DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference* is now available on [arXiv](https://arxiv.org/pdf/2609.00407).
-- **August 2026**: Our work *VIPER: Architecture-Aware Performance Modeling for Processing-in-Memory Design-Space Exploration* is now available on [arXiv](https://arxiv.org/pdf/2609.00407).
+- **August 2026**: Our work *VIPER: Architecture-Aware Performance Modeling for Processing-in-Memory Design-Space Exploration* is now available on [arXiv](https://arxiv.org/pdf/2608.23404).
 - **August 2026**: Our paper *Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs* was accepted to PACT 2026! Congrats to all collaborators!
 - **July 2026**: Our paper *HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory* was accepted by CCMCC 2026! Congrats to all collaborators!
 - **June 2026** Our ASPLOS 2026 paper [*I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention*](https://xiaoyang-lu.github.io/publications/ASPLOS2026) was featured on the [Chameleon Cloud Blog](https://blog.chameleoncloud.org/posts/attenio-io-analysis-long-sequence-attention/), highlighting our AttenIO framework and its I/O-centric analysis for long-sequence attention.

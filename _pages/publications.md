@@ -5,15 +5,18 @@ author_profile: true
 ---
 
 # Conference
+<b>Rethinking Tiered Memory Management through Memory Access Concurrency</b><br>
+Haozhe Song, <b>Xiaoyang Lu</b>, Shuibing He, Xian-He Sun.  
+<i>IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027</i>. <b>HPCA 2027</b>
 
 <b>[Improving Data Reuse across Blocks for Efficient Block-Sparse Transformers on GPUs](../publications/PACT2026)</b><br>
 Lihan Hu, <b>Xiaoyang Lu</b>, Xian-He Sun, Peng Jiang.  
-<i>35th International Conference on Parallel Architectures and Compilation Techniques (PACT), 2026</i>. <b>PACT 2026</b>
+<i>International Conference on Parallel Architectures and Compilation Techniques (PACT), 2026</i>. <b>PACT 2026</b>
 
 
 <b>[HyPIM: Accelerating Hyperbolic Machine Learning via Processing-In-Memory](../publications/CCMCC2026)</b><br>
 Jinlin Wu, Ferit Ozdaban, Selvanathan Sadhasivam, <b>Xiaoyang Lu</b>, Yunhui Guo, Minxuan Zhou.  
-<i>2nd Cross-Disciplinary Conference on Memory-Centric Systems (CCMCC), 2026</i>. <b>CCMCC 2026</b>
+<i>Cross-Disciplinary Conference on Memory-Centric Systems (CCMCC), 2026</i>. <b>CCMCC 2026</b>
 
 
 <b>[I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention](../publications/IPDPS2026)</b><br>
