@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2026
+- **November 2026**: Our paper *Memory-bounded Scalable Computing: Its History and Pivoting Role in the AI Era* was accepted for publication in IEEE TPDS! 
 - **November**: Our paper *Rethinking Tiered Memory Management through Memory Access Concurrency* was accepted by HPCA 2027! Congrats to all collaborators! *(Acceptance rate: 17.9%)*
 - **October 2026**: I serve as a PC member for DAC 2027.
 - **September 2026**: I serve as a PC member for EuroSys 2027.

@@ -45,6 +45,7 @@ I conduct research in Computer Architecture and High-Performance Systems, focusi
 
 Updates
 ======
+- **Nov 2026**: <span style="color: #c62828; font-weight: bold;">Our paper *Memory-bounded Scalable Computing: Its History and Pivoting Role in the AI Era* was accepted for publication in IEEE TPDS! This work revisits memory-bounded performance modeling and provides insights for advancing data-centric computing in the AI era.</span>
 - **Nov 2026**: <span style="color: #c62828; font-weight: bold;"> Our paper *Rethinking Tiered Memory Management through Memory Access Concurrency* was accepted to HPCA 2027! Congratulations to all collaborators! *(Acceptance rate: 17.9%)*</span>
 - **Oct 2026**: I serve as a PC member for DAC 2027.
 - **Sep 2026**: I serve as a PC member for EuroSys 2027.

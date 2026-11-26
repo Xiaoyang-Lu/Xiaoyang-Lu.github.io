@@ -12,6 +12,7 @@ Modern memory hierarchies must handle diverse and evolving access patterns, yet 
 
 **Selected Publications**
 
+- **Rethinking Tiered Memory Management through Memory Access Concurrency (HPCA 2027, Accepted)**
 - [ACES – Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations (ASPLOS 2024)](../publications/ASPLOS2024)
 - [CHROME – Concurrency-Aware Holistic Cache Management Framework with Online Reinforcement Learning (HPCA 2024)](../publications/HPCA2024)
 - [CARE – A Concurrency-Aware Enhanced Lightweight Cache Management Framework (HPCA 2023)](../publications/HPCA2023)
@@ -25,6 +26,7 @@ Understanding data-access and data-movement costs is essential for optimizing me
 
 **Selected Publications**
 
+- **Memory-bounded Scalable Computing: Its History and Pivoting Role in the AI Era (IEEE TPDS 2026, Accepted)**
 - [PILOT – I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention (IPDPS 2026)](../publications/IPDPS2026)
 - [AttenIO – I/O Analysis is All You Need: An I/O Analysis for Long-Sequence Attention (ASPLOS 2026)](../publications/ASPLOS2026)
 - [The Memory-Bounded Speedup Model and its Impacts in Computing (JCST 2023)](../publications/JCST2023)

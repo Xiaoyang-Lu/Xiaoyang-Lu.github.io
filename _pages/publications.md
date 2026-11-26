@@ -80,18 +80,25 @@ Liang Yan, Mingzhe Zhang, Rujia Wang, Xiaoming Chen, Xingqi Zou, <b>Xiaoyang Lu<
 
 
 # Journals & Transactions
+<b>Memory-bounded Scalable Computing: Its History and Pivoting Role in the AI Era</b><br>
+Xian-He Sun, <b>Xiaoyang Lu</b>.  
+<i>IEEE Transactions on Parallel and Distributed Systems (TPDS), 2026</i>. <b>Accepted for Publication</b>
+
+
 <b>[ProMiner: Enhancing Locality, Parallelism, and Offloading for Graph Mining on Processing-in-Memory Systems](../publications/TCAD2025)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Sheng Xu, Xiaoming Chen, Xingqi Zou, Yinhe Han, Xian-He Sun.  
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
-
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 44(12), 4577–4590, 2025.</i>
 
 <b>[Pyramid: Accelerating LLM Inference with Cross-Level Processing-in-Memory](../publications/CAL2025)</b><br>
 Liang Yan, <b>Xiaoyang Lu</b>, Xiaoming Chen, Yinhe Han, Xian-He Sun.  
-<i>IEEE Computer Architecture Letters (CAL), 24 (1), 121-124.
+<i>IEEE Computer Architecture Letters (CAL), 24(1), 121–124, 2025.</i>
 
-<b>[The Memory-Bounded Speedup Model and its Impacts in Computing](../publications/JCST2023)</b><br>
+
+<b>[The Memory-Bounded Speedup Model and Its Impacts in Computing](../publications/JCST2023)</b><br>
 Xian-He Sun, <b>Xiaoyang Lu</b>.  
-<i>Journal of Computer Science and Technology (JCST), 38 (1), 64-79.
+<i>Journal of Computer Science and Technology (JCST), 38(1), 64–79, 2023.</i>
+
+
 
 # Preprints
 <b>[DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference](https://arxiv.org/pdf/2609.00407)</b><br>
